@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English on PanDam Amsterdam</title>
+    <link>/public/categories/english/</link>
+    <description>Recent content in English on PanDam Amsterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/public/categories/english/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amsterdam through stories, pictures and podcasts: this is Pan-Dam</title>
+      <link>/public/posts/2020-02-07-amsterdam-through-stories-en/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/public/posts/2020-02-07-amsterdam-through-stories-en/</guid>
+      <description>Link to Italian Translation
+ Pan-Dam was born in 2019, on the 22nd of October, in the cafè of the Kriterion Filmtheatre. A few weeks before I had decided to open my own publication, to break my inertia and finally get started on a project I had been fantasizing about for years. I spent sleepless nights posting and posting in a multitude of writing-related Facebook groups, texting and emailing hundreds of people, hoping to find someone willing to embark on this project with me.</description>
+    </item>
+    
+    <item>
+      <title>I am Sunny, sex worker in Amsterdam: let me explain you my world</title>
+      <link>/public/posts/2020-02-07-i-am-sunny-en/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/public/posts/2020-02-07-i-am-sunny-en/</guid>
+      <description>Italian Translation
+ Sunny is a sex worker in Amsterdam. You will sometimes find her at the Prostitution Information Center, sitting on Enge Kerksteeg 3, ready to answer all your questions over a steaming mint tea waiting to be served. The Center is very beautifully decorated, pictures and posters adorne its walls, and towards the back is a spacious wooden table. People often take pictures from outside, but when someone tried doing so during our interview Sunny rushed to the window and waved her arms in disapproval, “we don’t want people to just take pictures, we want them to come in for a chat”.</description>
+    </item>
+    
+  </channel>
+</rss>

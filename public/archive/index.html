@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="/static/css/index.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script>
+    $(function () {
+        $('.navbar-container').hover(function () {
+            $('#menu-box').animate({ height: 150 }, 0)
+        }, function () {
+            $('#menu-box').animate({ height: 0 },150)
+        })
+    })
+</script>
+<script>
+
+</script>
+
+
+<body>
+    <header class="navbar-container noselect" onclick="toggleMenu()">
+        <div class="navbar">
+            <div>
+                <div class="name-container">
+                    <h1><a href="/public/posts/index.html">PANDAM</a></h1>
+                </div>
+            </div>
+        </div>
+        <div id="menu-box" class="menu-open">
+            <ul class="menu-list">
+                <li><a href="/public/posts/index.html">HOME</a></li>
+                <li><a href="/public/archive/index.html">Archive</a></li>
+                
+                <li><a href="/public/about/index.html">About</a></li>
+            </ul>
+        </div>
+    </header>
+    <div class="main">
+
+<div class="archive-container">
+  <h1 class="archive-title">Archive</h1>
+  <ul class="archived-articles-container">
+
+  
+  
+  
+
+  
+  <li class="doc">
+    <h2 ><a href="/public/posts/2020-02-07-amsterdam-through-stories-it/">Amsterdam attraverso storie, immagini, podcast: arriva Pan-Dam</a></h2>
+    <p>Friday, Feb 7, 2020, by Scintilla Benevolo</a></p>
+    </li>
+  
+  <li class="doc">
+    <h2 ><a href="/public/posts/2020-02-07-amsterdam-through-stories-en/">Amsterdam through stories, pictures and podcasts: this is Pan-Dam</a></h2>
+    <p>Friday, Feb 7, 2020, by Scintilla Benevolo</a></p>
+    </li>
+  
+  <li class="doc">
+    <h2 ><a href="/public/posts/2020-02-07-i-am-sunny-en/">I am Sunny, sex worker in Amsterdam: let me explain you my world</a></h2>
+    <p>Friday, Feb 7, 2020, by PanDam</a></p>
+    </li>
+  
+  <li class="doc">
+    <h2 ><a href="/public/posts/2020-02-07-i-am-sunny-it/">Io, sex worker al Red Light di Amsterdam, vi racconto il mio mondo</a></h2>
+    <p>Friday, Feb 7, 2020, by PanDam</a></p>
+    </li>
+  
+  
+
+  
+</ul>
+</div>
+
+
+</div>
+<footer>
+    <p class="copyright">Copyright &copy; 2020 PanDam. All rights reserved.</p>
+</footer>
+</body>
+
+
+
+<script>
+    var slideIndex = 0;
+  showSlides();
+  function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("slideshow");
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}
+    slides[slideIndex-1].style.display = "block";
+    setTimeout(showSlides, 2000);
+  }
+  </script>
+
+
+</html>

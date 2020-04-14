@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="generator" content="Hugo 0.69.0" />
+    <title>PanDam Amsterdam</title>
+    <link rel="stylesheet" type="text/css" href="/static/css/index.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script>
+    $(function () {
+        $('.navbar-container').hover(function () {
+            $('#menu-box').animate({ height: 150 }, 0)
+        }, function () {
+            $('#menu-box').animate({ height: 0 },150)
+        })
+    })
+</script>
+<script>
+
+</script>
+
+
+<body>
+    <header class="navbar-container noselect" onclick="toggleMenu()">
+        <div class="navbar">
+            <div>
+                <div class="name-container">
+                    <h1><a href="/public/posts/index.html">PANDAM</a></h1>
+                </div>
+            </div>
+        </div>
+        <div id="menu-box" class="menu-open">
+            <ul class="menu-list">
+                <li><a href="/public/posts/index.html">HOME</a></li>
+                <li><a href="/public/archive/index.html">Archive</a></li>
+                
+                <li><a href="/public/about/index.html">About</a></li>
+            </ul>
+        </div>
+    </header>
+    <div class="main">
+
+
+
+<div class="slideshow-container">
+
+  
+  <div class="slideshow fade">
+
+    
+    
+    <div class="numbertext">1 / 3</div>
+    <img src="img3.jpg" style="width:100%">
+    <div class="text"><a href="/public/posts/2020-02-07-i-am-sunny-en/">I am Sunny, sex worker in Amsterdam: let me explain you my world</a></div>
+    
+    
+
+
+  </div>
+
+  <div class="slideshow fade">
+    <div class="numbertext">2 / 3</div>
+    <img src="img2.jpg" style="width:100%">
+    <div class="text">Placeholder 2</div>
+  </div>
+
+  <div class="slideshow fade">
+    <div class="numbertext">3 / 3</div>
+    <img src="img3.jpg" style="width:100%">
+    <div class="text">Placeholder 3</div>
+  </div>
+
+  
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+</div>
+
+
+<div class="news-update">
+
+  <div class="news-container">
+    <h1 class="latest ">Latest</h1>
+  <ul class="row-container" >
+    
+  
+  <li class="row">
+    <div class>
+      <h2><a href="/public/posts/2020-02-07-i-am-sunny-en/">I am Sunny, sex worker in Amsterdam: let me explain you my world</a></h2>
+    </div>
+  </li>
+  
+  <li class="row">
+    <div class>
+      <h2><a href="/public/posts/2020-02-07-amsterdam-through-stories-en/">Amsterdam through stories, pictures and podcasts: this is Pan-Dam</a></h2>
+    </div>
+  </li>
+  
+  
+</ul>
+</div>
+<div class="news-container">
+  <h1 class="trending ">Amsterdam Trending</h1>
+  <ul class="row-container">
+    
+  
+  <li class="row">
+    <div class>
+      <h2><a href="/public/posts/2020-02-07-amsterdam-through-stories-en/">Amsterdam through stories, pictures and podcasts: this is Pan-Dam</a></h2>
+    </div>
+  </li>
+  
+  <li class="row">
+    <div class>
+      <h2><a href="/public/posts/2020-02-07-i-am-sunny-en/">I am Sunny, sex worker in Amsterdam: let me explain you my world</a></h2>
+    </div>
+  </li>
+  
+  
+</ul>
+</div>
+</div>
+
+
+</div>
+<footer>
+    <p class="copyright">Copyright &copy; 2020 PanDam. All rights reserved.</p>
+</footer>
+</body>
+
+
+
+<script>
+    var slideIndex = 0;
+  showSlides();
+  function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("slideshow");
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}
+    slides[slideIndex-1].style.display = "block";
+    setTimeout(showSlides, 2000);
+  }
+  </script>
+
+
+</html>

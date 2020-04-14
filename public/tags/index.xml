@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on PanDam Amsterdam</title>
+    <link>/public/tags/</link>
+    <description>Recent content in Tags on PanDam Amsterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amsterdam</title>
+      <link>/public/tags/amsterdam/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/public/tags/amsterdam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prostitution information center</title>
+      <link>/public/tags/prostitution-information-center/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/public/tags/prostitution-information-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red light district</title>
+      <link>/public/tags/red-light-district/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/public/tags/red-light-district/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex work</title>
+      <link>/public/tags/sex-work/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/public/tags/sex-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex worker</title>
+      <link>/public/tags/sex-worker/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/public/tags/sex-worker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunny</title>
+      <link>/public/tags/sunny/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/public/tags/sunny/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+
+<div class="archive-container">
+  <h1 class="archive-title">Archive</h1>
+  <ul class="archived-articles-container">
+
+  {{ with .Site.GetPage "/posts" }}
+  {{ $pages :=  .Data.Pages}}
+  {{ $paginator := .Paginate $pages 10 }}
+
+  {{ range sort $paginator.Pages "Params.start" "asc" }}
+  <li class="doc">
+    <h2 ><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Date.Format "Monday, Jan 2, 2006"  }}, by {{ .Params.author }}</a></p>
+    </li>
+  {{ end }}
+  <!-- {{ template "_internal/pagination.html" . }} -->
+
+  {{ end }}
+</ul>
+</div>
+
+
+{{ partial "footer.html" . }}
