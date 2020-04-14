@@ -3,3 +3,4 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 author = "Esther Kim"
 title = "PanDam Amsterdam"
+relativeurls = true

@@ -49,7 +49,7 @@
   <div class="news-container">
     <h1 class="latest ">Latest</h1>
   <ul class="row-container" >
-    {{ with .Site.GetPage "/categories/english" }}
+    {{ with .Site.GetPage "{{ .Site.BaseURL }}/categories/english" }}
   {{ range first 4 .Data.Pages.ByDate.Reverse }}
   <li class="row">
     <div class>
@@ -63,7 +63,7 @@
 <div class="news-container">
   <h1 class="trending ">Amsterdam Trending</h1>
   <ul class="row-container">
-    {{ with .Site.GetPage "/categories/english" }}
+    {{ with .Site.GetPage "{{ .Site.BaseURL }}/categories/english" }}
   {{ range first 4 .Data.Pages }}
   <li class="row">
     <div class>
