@@ -73,12 +73,11 @@ a, a:visited {
 #menu-box li {
 
     display: list-item;
-    /* padding-left: 70px; */
     padding: 20px 0;
     font-size: x-large;
     height: 30px;
     font-family: 'IBM Plex Sans', sans-serif;
-    width: 100%;
+    width: 100vw;
     text-transform: uppercase;
     text-align: center;
 
