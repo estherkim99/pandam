@@ -12,6 +12,7 @@ tags = [
     "Sex worker",
     "Sunny"
 ]
+mainImage = "/img/posts/2020/2020-02-07-i-am-sunny.jpg"
 +++
 
 _[Italian Translation](/)_

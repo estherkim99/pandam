@@ -121,11 +121,11 @@ a, a:visited {
     height: 500px;
     box-sizing:border-box;
     overflow: hidden;
-    background-color:
   }
 
   .slideshow-container img {
-      height: 500px;
+    height: 500px;
+    object-fit: cover;
   }
 
   /* Hide the images by default */

@@ -7,6 +7,7 @@ categories = ["Italian"]
 tags = [
     "Amsterdam"
 ]
+mainImage = "/img/posts/2020/2020-02-07-amsterdam-through-stories.jpeg"
 +++
 
 _[Tradotto dall’inglese](https://www.31mag.nl/amsterdam-through-stories-pictures-and-podcasts-this-is-pan-dam/)_
