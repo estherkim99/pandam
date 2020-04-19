@@ -6,10 +6,19 @@
     <description>Recent content in Categories on PanDam Amsterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://estherkim99.github.io/pandam/public/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Italian</title>
+      <link>https://estherkim99.github.io/pandam/public/categories/italian/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://estherkim99.github.io/pandam/public/categories/italian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>English</title>
@@ -17,15 +26,6 @@
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://estherkim99.github.io/pandam/public/categories/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Italian</title>
-      <link>https://estherkim99.github.io/pandam/public/categories/italian/</link>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://estherkim99.github.io/pandam/public/categories/italian/</guid>
       <description></description>
     </item>
     
