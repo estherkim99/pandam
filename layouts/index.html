@@ -7,7 +7,7 @@
   {{ range first 3 .Data.Pages.ByDate.Reverse }}
   <!-- Full-width images with number and caption text -->
   <div class="slideshow fade">
-    <img src="{{ .Params.mainImage}}" style="width:100%">
+    <img src="{{ .Site.BaseURL }}{{ .Params.mainImage}}" style="width:100%">
     <div class="text"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
   </div>
   {{ end }}
