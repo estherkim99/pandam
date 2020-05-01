@@ -1,23 +1,34 @@
 {{ partial "header.html" . }}
 
 <div class="archive-container">
-  <h1 class="archive-title">Archive</h1>
-  <ul class="archived-articles-container">
-
-  {{ with .Site.GetPage "/posts" }}
-  {{ $pages :=  .Data.Pages}}
-  {{ $paginator := .Paginate $pages 10 }}
-
-  {{ range sort $paginator.Pages "Params.start" "asc" }}
-  <li class="doc">
+  <h1 class="archive-title">Articles in English</h1>
+  <div class="archived-articles-container">
+<ul>
+  {{ with .Site.GetPage "/categories/english" }}
+  {{ range .Data.Pages.ByDate.Reverse }}
+    <li class="doc">
     <h2 ><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Date.Format "Monday, Jan 2, 2006"  }}, by {{ .Params.author }}</a></p>
+    <p>{{ .Date.Format "Monday, Jan 2, 2006"  }}, by {{ .Params.author }}</p>
     </li>
   {{ end }}
-  <!-- {{ template "_internal/pagination.html" . }} -->
 
   {{ end }}
+  </ul>
+  </div>
+
+  <h1 class="archive-title">Articles in Italian</h1>
+  <div class="archived-articles-container">
+<ul>
+  {{ with .Site.GetPage "/categories/italian" }}
+  {{ range .Data.Pages.ByDate.Reverse }}
+    <li class="doc">
+    <h2 ><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Date.Format "Monday, Jan 2, 2006"  }}, by {{ .Params.author }}</p>
+    </li>
+  {{ end }}
+  {{ end }}
 </ul>
+  </div>
 </div>
 
 

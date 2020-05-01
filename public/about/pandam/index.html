@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pan-Dam</title>
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:5500/public/css/index.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script>
+    $(function () {
+        $('.navbar-container').hover(function () {
+            $('#menu-box').animate({ height: 200 }, 0)
+        }, function () {
+            $('#menu-box').animate({ height: 0 },200)
+        })
+    })
+</script>
+<script>
+
+</script>
+
+
+<body>
+    <header class="navbar-container noselect" onclick="toggleMenu()">
+        <div class="navbar">
+                <div class="name-container">
+                    <a href="http://127.0.0.1:5500/public/index.html">PANDAM</a>
+                </div>
+                                
+                <div class="menu-items-list">
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/index.html">Home</a></div>
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/archive/index.html">News</a></div>
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/blog/index.html">Blog</a></div>
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/about/index.html">About</a></div>
+        </div>
+        <div>
+            <img class="navbar-logo" src="http://127.0.0.1:5500/public/img/logo.jpeg" href="http://127.0.0.1:5500/public/index.html">
+        </div>
+        </div>
+
+    </header>
+    <div class="main">
+<div class="article-section">
+<div class="article-container">
+  <h1 class="article-title">Pan-Dam</h1>
+  <p>By </p>
+  <p class="article-date">Published Monday, Jan 1, 0001</p>
+  <div class="article-content-container">
+    <div class="article-content">
+  <p>Pan-Dam is a multi-media online newspaper which aims at empowering the Youth of Amsterdam to participate in an innovative, sustainable development of the city, by cultivating a greater understanding of Amsterdam’s urban dynamics. We are here to talk about Amsterdam: its strengths, weaknesses, uniquenesses, contours, people. We want Amsterdam to thrive, become the best it can be. To allow for its blooming, Pan-Dam does two things: it provides an analysis of Amsterdam’s urban dynamics and empowers its readers by making them protagonists, through the use of narrative journalism. Pan-Dam is a bottom-up newspaper, all of our content comes from talking to the fabric of the city: You. It is also You, we hope, who will make use of our stories to fix what is broken and build what is missing. Hence the name, ‘all’-Dam: involving all people, exposing all urban realities.</p>
+
+  </div>
+  </div>
+</div>
+</div>
+
+</div>
+<footer>
+    <p class="copyright">Copyright &copy; 2020 PanDam. All rights reserved.</p>
+</footer>
+</body>
+
+
+
+<script>
+    var slideIndex = 0;
+  showSlides();
+  function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("slideshow");
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}
+    slides[slideIndex-1].style.display = "block";
+    setTimeout(showSlides, 2000);
+  }
+  </script>
+
+
+</html>

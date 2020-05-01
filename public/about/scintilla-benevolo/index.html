@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Scintilla Benevolo</title>
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:5500/public/css/index.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script>
+    $(function () {
+        $('.navbar-container').hover(function () {
+            $('#menu-box').animate({ height: 200 }, 0)
+        }, function () {
+            $('#menu-box').animate({ height: 0 },200)
+        })
+    })
+</script>
+<script>
+
+</script>
+
+
+<body>
+    <header class="navbar-container noselect" onclick="toggleMenu()">
+        <div class="navbar">
+                <div class="name-container">
+                    <a href="http://127.0.0.1:5500/public/index.html">PANDAM</a>
+                </div>
+                                
+                <div class="menu-items-list">
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/index.html">Home</a></div>
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/archive/index.html">News</a></div>
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/blog/index.html">Blog</a></div>
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/about/index.html">About</a></div>
+        </div>
+        <div>
+            <img class="navbar-logo" src="http://127.0.0.1:5500/public/img/logo.jpeg" href="http://127.0.0.1:5500/public/index.html">
+        </div>
+        </div>
+
+    </header>
+    <div class="main">
+<div class="article-section">
+<div class="article-container">
+  <h1 class="article-title">Scintilla Benevolo</h1>
+  <p>By </p>
+  <p class="article-date">Published Monday, Jan 1, 0001</p>
+  <div class="article-content-container">
+    <div class="article-content">
+  <h3 id="profile-imageimgscintilla-profilejpg"><img src="../img/scintilla-profile.jpg" alt="Profile Image"></h3>
+<p>I&rsquo;m Scintilla Benevolo, from Italy, and I study PPE at the VU. In September of 2019 I moved to New York for a five week internship, where I decided - once back in Amsterdam - to open a publication focusing on urban development. My stay in New York was a beautiful experience, I found its urban character to be fascinating, yet radically different from that of Amsterdam. With Pan-Dam we want to explore Amsterdam’s urban dynamics, expose its strengths and weaknesses, for the purpose of inspiring its readers to engage in fixing what is broken and building what is missing. Cities can flourish and cities can learn from each other.</p>
+
+  </div>
+  </div>
+</div>
+</div>
+
+</div>
+<footer>
+    <p class="copyright">Copyright &copy; 2020 PanDam. All rights reserved.</p>
+</footer>
+</body>
+
+
+
+<script>
+    var slideIndex = 0;
+  showSlides();
+  function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("slideshow");
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}
+    slides[slideIndex-1].style.display = "block";
+    setTimeout(showSlides, 2000);
+  }
+  </script>
+
+
+</html>

@@ -10,9 +10,9 @@
 <script>
     $(function () {
         $('.navbar-container').hover(function () {
-            $('#menu-box').animate({ height: 150 }, 0)
+            $('#menu-box').animate({ height: 200 }, 0)
         }, function () {
-            $('#menu-box').animate({ height: 0 },150)
+            $('#menu-box').animate({ height: 0 },200)
         })
     })
 </script>
@@ -24,19 +24,27 @@
 <body>
     <header class="navbar-container noselect" onclick="toggleMenu()">
         <div class="navbar">
-            <div>
                 <div class="name-container">
-                    <h1><a href="{{ .Site.BaseURL }}/posts/index.html">PANDAM</a></h1>
+                    <a href="{{ .Site.BaseURL }}/index.html">PANDAM</a>
                 </div>
-            </div>
+                                <!-- <div id="menu-box" class="menu-open">
+                    <ul class="menu-list">
+                        <li><a href="{{ .Site.BaseURL }}/index.html">HOME</a></li>
+                        <li><a href="{{ .Site.BaseURL }}/archive/index.html">News</a></li>
+                        <li><a href="{{ .Site.BaseURL }}/blog/index.html">Blog</a></li>
+                        <li><a href="{{ .Site.BaseURL }}/about/index.html">About</a></li>
+                    </ul>
+                </div> -->
+                <div class="menu-items-list">
+            <div class="menu-item"><a href="{{ .Site.BaseURL }}/index.html">Home</a></div>
+            <div class="menu-item"><a href="{{ .Site.BaseURL }}/archive/index.html">News</a></div>
+            <div class="menu-item"><a href="{{ .Site.BaseURL }}/blog/index.html">Blog</a></div>
+            <div class="menu-item"><a href="{{ .Site.BaseURL }}/about/index.html">About</a></div>
         </div>
-        <div id="menu-box" class="menu-open">
-            <ul class="menu-list">
-                <li><a href="{{ .Site.BaseURL }}/posts/index.html">HOME</a></li>
-                <li><a href="{{ .Site.BaseURL }}/archive/index.html">Archive</a></li>
-                <!-- <li><a href="">Archive</a></li> -->
-                <li><a href="{{ .Site.BaseURL }}/about/index.html">About</a></li>
-            </ul>
+        <div>
+            <img class="navbar-logo" src="{{ .Site.BaseURL }}/img/logo.jpeg" href="{{ .Site.BaseURL }}/index.html">
         </div>
+        </div>
+
     </header>
     <div class="main">

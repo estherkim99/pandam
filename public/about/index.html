@@ -2,7 +2,7 @@
 <html>
 <head>
     <title></title>
-    <link rel="stylesheet" type="text/css" href="https://estherkim99.github.io/pandam/public/css/index.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:5500/public/css/index.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 </head>
 
@@ -10,9 +10,9 @@
 <script>
     $(function () {
         $('.navbar-container').hover(function () {
-            $('#menu-box').animate({ height: 150 }, 0)
+            $('#menu-box').animate({ height: 200 }, 0)
         }, function () {
-            $('#menu-box').animate({ height: 0 },150)
+            $('#menu-box').animate({ height: 0 },200)
         })
     })
 </script>
@@ -24,20 +24,21 @@
 <body>
     <header class="navbar-container noselect" onclick="toggleMenu()">
         <div class="navbar">
-            <div>
                 <div class="name-container">
-                    <h1><a href="https://estherkim99.github.io/pandam/public/posts/index.html">PANDAM</a></h1>
+                    <a href="http://127.0.0.1:5500/public/index.html">PANDAM</a>
                 </div>
-            </div>
+                                
+                <div class="menu-items-list">
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/index.html">Home</a></div>
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/archive/index.html">News</a></div>
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/blog/index.html">Blog</a></div>
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/about/index.html">About</a></div>
         </div>
-        <div id="menu-box" class="menu-open">
-            <ul class="menu-list">
-                <li><a href="https://estherkim99.github.io/pandam/public/posts/index.html">HOME</a></li>
-                <li><a href="https://estherkim99.github.io/pandam/public/archive/index.html">Archive</a></li>
-                
-                <li><a href="https://estherkim99.github.io/pandam/public/about/index.html">About</a></li>
-            </ul>
+        <div>
+            <img class="navbar-logo" src="http://127.0.0.1:5500/public/img/logo.jpeg" href="http://127.0.0.1:5500/public/index.html">
         </div>
+        </div>
+
     </header>
     <div class="main">
 <div class="pandam-container">
@@ -50,7 +51,7 @@
         fabric of the city: You. It is also You, we hope, who will make use of our stories to fix what is broken and
         build what is missing. Hence the name, ‘all’-Dam: involving all people, exposing all urban realities.
     </p>
-    <img class="pandam-logo" src="https://estherkim99.github.io/pandam/public/img/logo.jpeg">
+    <img class="pandam-logo" src="http://127.0.0.1:5500/public/img/logo.jpeg">
 </div >
 <div class="team">
     <h1>TEAM</h1>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>climate action on PanDam Amsterdam</title>
+    <link>http://127.0.0.1:5500/public/tags/climate-action/</link>
+    <description>Recent content in climate action on PanDam Amsterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://127.0.0.1:5500/public/tags/climate-action/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Extinction Rebellion a Pandam: il Covid non è “miracolo” per l’ambiente. Sfida ecologica ancora nelle nostre mani</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-04-28-extinction-it/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-04-28-extinction-it/</guid>
+      <description>Tradotto dall’inglese
+pics credit: XR
+ Mentre il mondo muove i primi passi dal blocco, un aspetto sta diventando sempre più chiaro: dobbiamo ripensare le nostre interazioni sociali, il modo in cui sceglieremo di gestire il nostro ambiente in futuro, così come i nostri valori. A questo proposito, l’attuale crisi COVID-19 potrebbe offrire una finestra unica di opportunità per imparare e riflettere su questioni fondamentali.
+ Il dibattito attuale sembra incentrato su come riottenere lo status quo e tornare al nostro stile di vita precedente – “una volta che tutto questo sarà finito”.</description>
+    </item>
+    
+    <item>
+      <title>Extinction Rebellion to Pandam: Covid is not a “blessing” for the environment. The future of the planet is still in our hands</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-04-28-extinction-en/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-04-28-extinction-en/</guid>
+      <description>Italian Translation
+pics credit: XR
+ As the world slowly takes its first steps out of lockdown one aspect is becoming increasingly clear: we need to re-think our social interactions, the way we will manage our environment in the future, and above all the way we define human values. The current COVID-19 crisis might offer a unique perspective to learn from. The current debate seems to focus around how we can regain the status quo and return to our old lifestyle – “once all of this will be over“.</description>
+    </item>
+    
+  </channel>
+</rss>

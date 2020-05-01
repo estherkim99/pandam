@@ -4,3 +4,9 @@ defaultContentLanguage = "en"
 author = "Esther Kim"
 title = "PanDam Amsterdam"
 relativeurls = true
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

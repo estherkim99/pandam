@@ -15,7 +15,7 @@ tags = [
 mainImage = "/img/posts/2020/2020-02-07-i-am-sunny.jpg"
 +++
 
-_[Tradotto dall’inglese](/)_
+_[Tradotto dall’inglese](../2020-02-07-i-am-sunny-en/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sunny è una sex worker. Lavora al Centro di Informazioni sulla Prostituzione (Prostitution Information Center) a Enge Kerksteeg n°3, pronta a rispondere a tutte le vostre domande seduta davanti a una bollente tazza di tè. Il Centro è ben arredato, foto e poster decorano i suoi interni e, nella parte posteriore, è posizionato un grande tavolo di legno. Le persone spesso scattano le foto dall’esterno ma, quando qualcuno lo ha fatto durante la nostra intervista, Sunny si è subito precipitata alla finestra, agitava la mano in segno di disapprovazione, **“non vogliamo che la gente scatti solo foto, ma che entri per fare una chiacchierata.”**
 

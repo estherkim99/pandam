@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PanDam Amsterdam</title>
+    <link>http://127.0.0.1:5500/public/blog/</link>
+    <description>Recent content on PanDam Amsterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://127.0.0.1:5500/public/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog Post 1</title>
+      <link>http://127.0.0.1:5500/public/blog/blogpost1/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/blog/blogpost1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog post 2</title>
+      <link>http://127.0.0.1:5500/public/blog/blogpost2/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/blog/blogpost2/</guid>
+      <description>Link to Italian Translation
+ Pan-Dam was born in 2019, on the 22nd of October, in the cafè of the Kriterion Filmtheatre. A few weeks before I had decided to open my own publication, to break my inertia and finally get started on a project I had been fantasizing about for years. I spent sleepless nights posting and posting in a multitude of writing-related Facebook groups, texting and emailing hundreds of people, hoping to find someone willing to embark on this project with me.</description>
+    </item>
+    
+  </channel>
+</rss>

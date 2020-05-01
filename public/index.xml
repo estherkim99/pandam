@@ -2,31 +2,200 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PanDam Amsterdam</title>
-    <link>https://estherkim99.github.io/pandam/public/</link>
+    <link>http://127.0.0.1:5500/public/</link>
     <description>Recent content on PanDam Amsterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://estherkim99.github.io/pandam/public/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://127.0.0.1:5500/public/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Extinction Rebellion a Pandam: il Covid non è “miracolo” per l’ambiente. Sfida ecologica ancora nelle nostre mani</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-04-28-extinction-it/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-04-28-extinction-it/</guid>
+      <description>Tradotto dall’inglese
+pics credit: XR
+ Mentre il mondo muove i primi passi dal blocco, un aspetto sta diventando sempre più chiaro: dobbiamo ripensare le nostre interazioni sociali, il modo in cui sceglieremo di gestire il nostro ambiente in futuro, così come i nostri valori. A questo proposito, l’attuale crisi COVID-19 potrebbe offrire una finestra unica di opportunità per imparare e riflettere su questioni fondamentali.
+ Il dibattito attuale sembra incentrato su come riottenere lo status quo e tornare al nostro stile di vita precedente – “una volta che tutto questo sarà finito”.</description>
+    </item>
+    
+    <item>
+      <title>Extinction Rebellion to Pandam: Covid is not a “blessing” for the environment. The future of the planet is still in our hands</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-04-28-extinction-en/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-04-28-extinction-en/</guid>
+      <description>Italian Translation
+pics credit: XR
+ As the world slowly takes its first steps out of lockdown one aspect is becoming increasingly clear: we need to re-think our social interactions, the way we will manage our environment in the future, and above all the way we define human values. The current COVID-19 crisis might offer a unique perspective to learn from. The current debate seems to focus around how we can regain the status quo and return to our old lifestyle – “once all of this will be over“.</description>
+    </item>
+    
+    <item>
+      <title>Si al consenso, no alle violenze sessuali: ecco OBOV, l’organizzazione che combatte abusi (e stigma)</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-04-19-yes-to-consent-it/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-04-19-yes-to-consent-it/</guid>
+      <description>Tradotto dall’inglese
+ All’inizio della crisi del coronavirus, un lockdown sembrava qualcosa di estremo. Tuttavia, oltre 100 paesi hanno attuato misure, totali o parziali, che hanno avuto impatto su buona parte del globo. Lavorare da casa, la mancanza di interazione sociale e la terribile incertezza sul futuro hanno investito tutti. Oltre a queste conseguenze, sono aumentati i casi di violenza domestica. Ciò rende le organizzazioni come OBOV estremamente importanti. Ma di cosa si tratta?</description>
+    </item>
+    
+    <item>
+      <title>Yes to consent, no to sexual violence: this is OBOV mission</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-04-19-yes-to-consent-en/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-04-19-yes-to-consent-en/</guid>
+      <description>Italian Translation
+ At the beginning of the coronavirus crisis, a lockdown seemed extreme. Yet, over 100 countries implemented either a full or partial lockdown by the end of March; with the quarantine lasting weeks, people all over the world are forced to cope with the disruptive shift in their lifestyle: Working from home, the lack of social interaction, and the distressing uncertainty about the future. Besides these consequences, cases of domestic violence have surged.</description>
+    </item>
+    
+    <item>
+      <title>Coronavirus and democracy, what do Amsterdam students think of the ongoing social crisis? is a nightmare</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-04-11-coronavirus-and-democracy-en/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-04-11-coronavirus-and-democracy-en/</guid>
+      <description>Italian Translation
+ Wrapping your head around the biggest world crisis since WWII is not an easy task: there is so much uncertainty, there are so many questions, so much instability. Spring is finally creeping into the canals and the parks of Amsterdam but for this year we can forget the drinks and barbecues with friends, the ease and joy of the first days of warmth. Something as small and invisible as a virus has changed our life: what should we think about it?</description>
+    </item>
+    
+    <item>
+      <title>Coronavirus e democrazia, cosa pensano gli studenti di Amsterdam della crisi sociale in corso?</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-04-11-coronavirus-and-democracy-it/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-04-11-coronavirus-and-democracy-it/</guid>
+      <description>Tradotto dall’inglese
+ Capire la più grave crisi sociale dalla Seconda guerra mondiale non è cosa facile: c’è così tanta incertezza, ci sono tante domande e soprattutto tanta instabilità. La primavera si sta finalmente insinuando nei canali e nei parchi di Amsterdam, ma ovviamente possiamo dimenticarci i drink e i barbecue con gli amici, la facilità e la gioia dei primi giorni di caldo; qualcosa di piccolo e invisibile come un virus sta cambiando il nostro mondo.</description>
+    </item>
+    
+    <item>
+      <title>Coronavirus in NL: aiuto con lo spesa o due chiacchiere al telefono, la solidarietà degli studenti di Amsterdam agli anziani</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-04-05-coronavirus-in-nl-it/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-04-05-coronavirus-in-nl-it/</guid>
+      <description>Il COVID-19 ha inaspettatamente preso il controllo delle nostre vite. È arrivato prima in Europa, è stato preso alla leggera, poi è diventato una pandemia. Ciò che solo pochi mesi fa sembrava così lontano da noi ha preso il controllo della nostra vita. Stiamo senza dubbio vivendo un capitolo confuso e difficile da comprendere, della storia. Ma in un panorama come questo l’empatia, la cura e il sostegno comuni sono fioriti.</description>
+    </item>
+    
+    <item>
+      <title>Racism, ripoffs and ruthless landlords: housing market in Amsterdam is a nightmare</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-03-21-racism-ripoff-en/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-03-21-racism-ripoff-en/</guid>
+      <description>Italian Translation
+ Numbers released by Statistics Netherlands revealed that, in 2018, the number of foreigners who registered at a Dutch municipality exceeded the number of people who left by 69.5 thousand. In 2018, between January and March, 186 thousand immigrants moved to the Netherlands; 4.5k more than during the same period in 2017. Amsterdam is known to be a truly liberal city, tolerant, welcoming and with a high quality of life that is why the number of foreigners settling here is not likely to decrease anytime soon.</description>
+    </item>
+    
+    <item>
+      <title>Truffe, razzismo e proprietari senza scrupoli: cercare casa ad Amsterdam è un incubo</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-03-21-racism-ripoff-it/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-03-21-racism-ripoff-it/</guid>
+      <description>Tradotto dall’inglese
+ Secondo CBS, l’Ufficio Statistico olandese, nel 2018, il numero di stranieri che si sono registrati in un comune dei Paesi Bassi ha superato il numero di coloro che se ne sono andati. Nel 2018, tra gennaio e marzo, 186 mila immigrati si sono trasferiti nei Olanda; 4,5k in più rispetto allo stesso periodo del 2017. Amsterdam nota per essere una città liberale, tollerante, accogliente e con un’alta qualità della vita, motivo per cui il numero di stranieri che si stabiliscono qui non è destinato a diminuire .</description>
+    </item>
+    
+    <item>
+      <title>Catcalls of Amsterdam, il sessismo marchiato sull’asfalto</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-03-07-catcalls-it/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-03-07-catcalls-it/</guid>
+      <description>Tradotto dall’inglese
+ “Da quando ho iniziato Cat Calls of Amsterdam ho sviluppato questo sesto senso: ogni volta che qualcuno sta per fischiare a me oppure a una mia amica, c’è un radar dentro di me che si attiva”, dice Ambrien Moenrialam, fondatrice dell’account Instagram Cat Calls of Amsterdam. Insieme a un team di tre donne, Ambrien ha deciso di combattere il sessismo in modo originale: raccoglie messaggi che le persone le inviano con le loro esperienze di “Cat Calling”, visita il luogo in cui è successo e scrive in terra, con gessetti colorati, quelle frasi, spesso impronunciabili, pronunciate all’indirizzo di ragazze e donne.</description>
+    </item>
+    
+    <item>
+      <title>Catcalls of Amsterdam, marking sexism on the ground</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-03-07-catcalls-en/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-03-07-catcalls-en/</guid>
+      <description>Tradotto dall’inglese
+ “Since I started ‘Cat Calls of Amsterdam’ I developed this sixth sense: every time someone is about to catcall me or my friend, or just a random stranger, a radar goes off in me; the presence of it is so much there,“ says Ambrien Moenrialam, founder of the Instagram site ‘Cat Calls of Amsterdam’. Together with her team of three, she collects messages people send her of their cat calling experiences.</description>
+    </item>
+    
+    <item>
+      <title>Social and diverse: Oscam in ZuidOost is the culturale beating heart of Bijlmer</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-02-29-social-and-diverse-en/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-02-29-social-and-diverse-en/</guid>
+      <description>Italian Translation
+ When thinking about art and museums in Amsterdam, Museumsplein -in the middle of the City center its the first place that one would think. Or, for the more local sort, Jordaan and its variety of bohemian galleries, offers a selection of fine art and sculptures. But rarely does Amsterdam South East, Zuid Oost, Watergrafsmeer blurring into Bijlmer blurring into Diemen, springs to mind.
+ OSCAM, the Open Space Contemporary Art Museum, is trying to change that image.</description>
+    </item>
+    
+    <item>
+      <title>Sociale, culturale e multietnico: al museo Oscam il cuore pulsante di Bijlmer</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-02-29-social-and-diverse-it/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-02-29-social-and-diverse-it/</guid>
+      <description>Tradotto dall’inglese
+ Parlando di arte e musei ad Amsterdam, non potrà che venirvi in mente la grande piazza di Museumsplein, nel cuore della città, con la sua massa di turisti, i grandi edifici, e i prezzi esorbitanti. E poi Jordaan con le sue gallerie bohemian, che offre una vasta selezione di opere d’arte e sculture. Di rado, invece, penserete alla parte sud orientale dove si intrecciano i quartieri di Watergrafsmeer, Bijlmer e Diemen.</description>
+    </item>
+    
+    <item>
+      <title>Printed and rebel, Amsterdam’s zine scene survives hipsters and tourists</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-02-22-printed-and-rebel-en/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-02-22-printed-and-rebel-en/</guid>
+      <description>Photo via: Wikimedia, Author Lindsay Eyink, Licence CC BY 2.0
+Wikimedia&amp;nbsp; &amp;nbsp; Author: W &amp;nbsp; CC BY 2.0 Lindsay Eyink&amp;nbsp; &amp;nbsp;Licence&amp;nbsp; -- Italian Translation
+ Who would ever expect to find an anarchist bookshop in Jodenbreestraat Street, one of the most touristic spots of the capital? And yet there stands Fort of Sjakoo, one of the eldest stores of its kind, packed with shelves full of anarchist, feminist and left-wing political publications; the thoughts of some of the most important thinkers of history lay in ancient books, waiting to be read.</description>
+    </item>
+    
+    <item>
+      <title>Ribelli e stampate: le zine di Amsterdam sopravvivono a hipster e turisti</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-02-22-printed-and-rebel-it/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-02-22-printed-and-rebel-it/</guid>
+      <description>Photo via: Wikimedia, Author Lindsay Eyink, Licence CC BY 2.0
+Tradotto dall’inglese
+ Chi si aspetterebbe mai di trovare una libreria anarchica in Jodenbreestraat Street, uno dei luoghi più turistici della capitale? Eppure Fort of Sjakoo, uno dei negozi più grandi e longevi del suo genere, pieno di scaffali pieni di pubblicazioni politiche anarchiche, femministe e di sinistra è proprio lì.
+ Per i dieci volontari che gestiscono la libreria è una missione quella di fornire un rifugio sicuro per riviste, cortometraggi indipendenti e autoprodotti, fuori dai circuiti.</description>
+    </item>
+    
+    <item>
       <title>Contraccezione gratuita, le avvocate a PanDam: la pillola è un diritto, ecco perché facciamo causa allo Stato</title>
-      <link>https://estherkim99.github.io/pandam/public/posts/2020-02-15-contraccezione/</link>
+      <link>http://127.0.0.1:5500/public/posts/2020-02-15-free-contraception-it/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/public/posts/2020-02-15-contraccezione/</guid>
+      <guid>http://127.0.0.1:5500/public/posts/2020-02-15-free-contraception-it/</guid>
       <description>Pic credit: Robin Butter
+Tradotto dall’inglese
  Nel 1972, dopo un’intensa campagna del gruppo femminista olandese Dolle Mina, i Paesi Bassi introdussero la contraccezione gratuita per tutti. Ieri, nel giorno dell’amore, le donne olandesi si sono trovate a vivere un singolare déjà vu: lo studio legale femminista Bureau Clara Wichmann e l’ONG De Goede Zaak hanno fatto ricorso alle vie legali contro il governo, dopo che una campagna politica di sensibilizzazione non aveva prodotto risultati.</description>
     </item>
     
     <item>
+      <title>Free contraception lawsuit: the pill is a women’s right, that’s why we sue Dutch State</title>
+      <link>http://127.0.0.1:5500/public/posts/2020-02-15-free-contraception-en/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/posts/2020-02-15-free-contraception-en/</guid>
+      <description>Pic credit: Robin Butter
+Italian Translation
+ In 1972 -following an intense campaign from the Dutch feminist group Dolle Mina- the Netherlands declared contraception free for all. Yesterday, on Valentine, “the day of love”, Dutch women are experiencing a déjà vu: feminist legal firm Bureau Clara Wichmann and NGO De Goede Zaak handed over a subpoena demanding free contraception for all to the high council in Amsterdam.
+ PanDam spoke to Femke Zeven, spokesperson for Bureau Clara Wichmann: “It was really nice to be at the High Council with all of the organizations and individuals that together are also supporting the case as a group.</description>
+    </item>
+    
+    <item>
       <title>Amsterdam attraverso storie, immagini, podcast: arriva Pan-Dam</title>
-      <link>https://estherkim99.github.io/pandam/public/posts/2020-02-07-amsterdam-through-stories-it/</link>
+      <link>http://127.0.0.1:5500/public/posts/2020-02-07-amsterdam-through-stories-it/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/public/posts/2020-02-07-amsterdam-through-stories-it/</guid>
+      <guid>http://127.0.0.1:5500/public/posts/2020-02-07-amsterdam-through-stories-it/</guid>
       <description>Tradotto dall’inglese
  Pan-Dam è nato nel 2019, il 22 ottobre precisamente, nel bar del cinema Kriterion ad Amsterdam. Alcune settimane prima avevo deciso di iniziare a scrivere il mio articolo, dopo tanti tentennamenti, finalmente, è venuto al mondo il progetto su cui avevo fantasticato per anni.
  Ho passato notti insonni pubblicando centinaia di post su gruppi Facebook inerenti alla scrittura e stavo solo aspettando che tutto si allineasse perchè il sogno di scrivere ed essere letta, potesse diventare realtà.</description>
@@ -34,67 +203,86 @@
     
     <item>
       <title>Amsterdam through stories, pictures and podcasts: this is Pan-Dam</title>
-      <link>https://estherkim99.github.io/pandam/public/posts/2020-02-07-amsterdam-through-stories-en/</link>
+      <link>http://127.0.0.1:5500/public/posts/2020-02-07-amsterdam-through-stories-en/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/public/posts/2020-02-07-amsterdam-through-stories-en/</guid>
+      <guid>http://127.0.0.1:5500/public/posts/2020-02-07-amsterdam-through-stories-en/</guid>
+      <description>Link to Italian Translation
+ Pan-Dam was born in 2019, on the 22nd of October, in the cafè of the Kriterion Filmtheatre. A few weeks before I had decided to open my own publication, to break my inertia and finally get started on a project I had been fantasizing about for years. I spent sleepless nights posting and posting in a multitude of writing-related Facebook groups, texting and emailing hundreds of people, hoping to find someone willing to embark on this project with me.</description>
+    </item>
+    
+    <item>
+      <title>Blog Post 1</title>
+      <link>http://127.0.0.1:5500/public/blog/blogpost1/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/blog/blogpost1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog post 2</title>
+      <link>http://127.0.0.1:5500/public/blog/blogpost2/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/public/blog/blogpost2/</guid>
       <description>Link to Italian Translation
  Pan-Dam was born in 2019, on the 22nd of October, in the cafè of the Kriterion Filmtheatre. A few weeks before I had decided to open my own publication, to break my inertia and finally get started on a project I had been fantasizing about for years. I spent sleepless nights posting and posting in a multitude of writing-related Facebook groups, texting and emailing hundreds of people, hoping to find someone willing to embark on this project with me.</description>
     </item>
     
     <item>
       <title>I am Sunny, sex worker in Amsterdam: let me explain you my world</title>
-      <link>https://estherkim99.github.io/pandam/public/posts/2020-02-07-i-am-sunny-en/</link>
+      <link>http://127.0.0.1:5500/public/posts/2020-02-07-i-am-sunny-en/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/public/posts/2020-02-07-i-am-sunny-en/</guid>
+      <guid>http://127.0.0.1:5500/public/posts/2020-02-07-i-am-sunny-en/</guid>
       <description>Italian Translation
  Sunny is a sex worker in Amsterdam. You will sometimes find her at the Prostitution Information Center, sitting on Enge Kerksteeg 3, ready to answer all your questions over a steaming mint tea waiting to be served. The Center is very beautifully decorated, pictures and posters adorne its walls, and towards the back is a spacious wooden table. People often take pictures from outside, but when someone tried doing so during our interview Sunny rushed to the window and waved her arms in disapproval, “we don’t want people to just take pictures, we want them to come in for a chat”.</description>
     </item>
     
     <item>
       <title>Io, sex worker al Red Light di Amsterdam, vi racconto il mio mondo</title>
-      <link>https://estherkim99.github.io/pandam/public/posts/2020-02-07-i-am-sunny-it/</link>
+      <link>http://127.0.0.1:5500/public/posts/2020-02-07-i-am-sunny-it/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/public/posts/2020-02-07-i-am-sunny-it/</guid>
+      <guid>http://127.0.0.1:5500/public/posts/2020-02-07-i-am-sunny-it/</guid>
       <description>Tradotto dall’inglese
  Sunny è una sex worker. Lavora al Centro di Informazioni sulla Prostituzione (Prostitution Information Center) a Enge Kerksteeg n°3, pronta a rispondere a tutte le vostre domande seduta davanti a una bollente tazza di tè. Il Centro è ben arredato, foto e poster decorano i suoi interni e, nella parte posteriore, è posizionato un grande tavolo di legno. Le persone spesso scattano le foto dall’esterno ma, quando qualcuno lo ha fatto durante la nostra intervista, Sunny si è subito precipitata alla finestra, agitava la mano in segno di disapprovazione, “non vogliamo che la gente scatti solo foto, ma che entri per fare una chiacchierata.</description>
     </item>
     
     <item>
       <title>Fanny Tockner</title>
-      <link>https://estherkim99.github.io/pandam/public/about/fanny-tockner/</link>
+      <link>http://127.0.0.1:5500/public/about/fanny-tockner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/public/about/fanny-tockner/</guid>
+      <guid>http://127.0.0.1:5500/public/about/fanny-tockner/</guid>
       <description>My name is Fanny Tockner and I&amp;rsquo;m a PPE student at the VU from Berlin, Germany. I&amp;rsquo;m excited to be part of the Pan-Dam team, because it is a grassroot magazine, where all decisions and contents are made from the bottom up and as a collective effort. It is a platform to creatively and more deeply engage with the city and share stories that ought to be heard - beyond tulips and canals.</description>
     </item>
     
     <item>
       <title>Pan-Dam</title>
-      <link>https://estherkim99.github.io/pandam/public/about/pandam/</link>
+      <link>http://127.0.0.1:5500/public/about/pandam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/public/about/pandam/</guid>
+      <guid>http://127.0.0.1:5500/public/about/pandam/</guid>
       <description>Pan-Dam is a multi-media online newspaper which aims at empowering the Youth of Amsterdam to participate in an innovative, sustainable development of the city, by cultivating a greater understanding of Amsterdam’s urban dynamics. We are here to talk about Amsterdam: its strengths, weaknesses, uniquenesses, contours, people. We want Amsterdam to thrive, become the best it can be. To allow for its blooming, Pan-Dam does two things: it provides an analysis of Amsterdam’s urban dynamics and empowers its readers by making them protagonists, through the use of narrative journalism.</description>
     </item>
     
     <item>
       <title>Scintilla Benevolo</title>
-      <link>https://estherkim99.github.io/pandam/public/about/scintilla-benevolo/</link>
+      <link>http://127.0.0.1:5500/public/about/scintilla-benevolo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/public/about/scintilla-benevolo/</guid>
+      <guid>http://127.0.0.1:5500/public/about/scintilla-benevolo/</guid>
       <description>I&amp;rsquo;m Scintilla Benevolo, from Italy, and I study PPE at the VU. In September of 2019 I moved to New York for a five week internship, where I decided - once back in Amsterdam - to open a publication focusing on urban development. My stay in New York was a beautiful experience, I found its urban character to be fascinating, yet radically different from that of Amsterdam. With Pan-Dam we want to explore Amsterdam’s urban dynamics, expose its strengths and weaknesses, for the purpose of inspiring its readers to engage in fixing what is broken and building what is missing.</description>
     </item>
     
     <item>
       <title>Tiana Japp</title>
-      <link>https://estherkim99.github.io/pandam/public/about/tiana-japp/</link>
+      <link>http://127.0.0.1:5500/public/about/tiana-japp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/public/about/tiana-japp/</guid>
+      <guid>http://127.0.0.1:5500/public/about/tiana-japp/</guid>
       <description>Hi, my name is Tiana Japp and I moved to the Netherlands three years ago from Canada and the US. Currently, I am doing my bachelors at the Vrije Universiteit in Literature and Society. Through Pan-Dam, I hope to help bring attention to important topics within our city that need to be told. As an Indigenous woman living in Amsterdam, it can be difficult at times due to the lack of knowledge and representation found in the general consciousness.</description>
     </item>
     

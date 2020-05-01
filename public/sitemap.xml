@@ -3,115 +3,350 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/posts/</loc>
+    <loc>http://127.0.0.1:5500/public/tags/air-pollution/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/categories/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/climate-action/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/climate-crisis/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/climate-justice/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/covid-19/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/debt-strike/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/digital-rebellions/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/categories/english/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/extinction-rebellion/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-04-28-extinction-it/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-04-28-extinction-en/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/green-switch/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/inequalitiess/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/categories/italian/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-04-19-yes-to-consent-it/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-04-19-yes-to-consent-en/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-04-11-coronavirus-and-democracy-en/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-04-11-coronavirus-and-democracy-it/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/coronavirus/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-04-05-coronavirus-in-nl-it/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/vekamering-rules/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/abuse/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/anti-kraak/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/homelessness/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/housing-crisis/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/mental-health/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/racism/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-03-21-racism-ripoff-en/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/registration/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-03-21-racism-ripoff-it/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-03-07-catcalls-it/</loc>
+    <lastmod>2020-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-03-07-catcalls-en/</loc>
+    <lastmod>2020-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-02-29-social-and-diverse-en/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-02-29-social-and-diverse-it/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/amsterdam/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/amsterdam-pants/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/art/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/boekie-woekie/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/creativity/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/fort-of-sjakoo/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/kristen-gehrman/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/pisswife/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-02-22-printed-and-rebel-en/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-02-22-printed-and-rebel-it/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/tessel-ten-zweege/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/tags/zine/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-02-15-free-contraception-it/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/posts/2020-02-15-free-contraception-en/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:5500/public/blog/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/categories/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://estherkim99.github.io/pandam/public/posts/2020-02-15-contraccezione/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://estherkim99.github.io/pandam/public/categories/italian/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://estherkim99.github.io/pandam/public/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://estherkim99.github.io/pandam/public/tags/amsterdam/</loc>
+    <loc>http://127.0.0.1:5500/public/posts/2020-02-07-amsterdam-through-stories-it/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/posts/2020-02-07-amsterdam-through-stories-it/</loc>
+    <loc>http://127.0.0.1:5500/public/posts/2020-02-07-amsterdam-through-stories-en/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/posts/2020-02-07-amsterdam-through-stories-en/</loc>
+    <loc>http://127.0.0.1:5500/public/blog/blogpost1/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/categories/english/</loc>
+    <loc>http://127.0.0.1:5500/public/blog/blogpost2/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/posts/2020-02-07-i-am-sunny-en/</loc>
+    <loc>http://127.0.0.1:5500/public/posts/2020-02-07-i-am-sunny-en/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/posts/2020-02-07-i-am-sunny-it/</loc>
+    <loc>http://127.0.0.1:5500/public/posts/2020-02-07-i-am-sunny-it/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/tags/prostitution-information-center/</loc>
+    <loc>http://127.0.0.1:5500/public/tags/prostitution-information-center/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/tags/red-light-district/</loc>
+    <loc>http://127.0.0.1:5500/public/tags/red-light-district/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/tags/sex-work/</loc>
+    <loc>http://127.0.0.1:5500/public/tags/sex-work/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/tags/sex-worker/</loc>
+    <loc>http://127.0.0.1:5500/public/tags/sex-worker/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/tags/sunny/</loc>
+    <loc>http://127.0.0.1:5500/public/tags/sunny/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/tags/</loc>
-    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://estherkim99.github.io/pandam/public/about/</loc>
+    <loc>http://127.0.0.1:5500/public/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/archive/</loc>
+    <loc>http://127.0.0.1:5500/public/archive/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/about/fanny-tockner/</loc>
+    <loc>http://127.0.0.1:5500/public/about/fanny-tockner/</loc>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/about/pandam/</loc>
+    <loc>http://127.0.0.1:5500/public/about/pandam/</loc>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/about/scintilla-benevolo/</loc>
+    <loc>http://127.0.0.1:5500/public/about/scintilla-benevolo/</loc>
   </url>
   
   <url>
-    <loc>https://estherkim99.github.io/pandam/public/about/tiana-japp/</loc>
+    <loc>http://127.0.0.1:5500/public/about/tiana-japp/</loc>
   </url>
   
 </urlset>

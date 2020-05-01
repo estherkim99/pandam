@@ -10,7 +10,7 @@ tags = [
 mainImage = "/img/posts/2020/2020-02-07-amsterdam-through-stories.jpeg"
 +++
 
-_[Tradotto dall’inglese](https://www.31mag.nl/amsterdam-through-stories-pictures-and-podcasts-this-is-pan-dam/)_
+_[Tradotto dall’inglese](../2020-02-07-amsterdam-through-stories-en/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pan-Dam è nato nel 2019, il 22 ottobre precisamente, **nel bar del cinema Kriterion ad Amsterdam**. Alcune settimane prima avevo deciso di iniziare a scrivere il mio articolo, dopo tanti tentennamenti, finalmente, è venuto al mondo il progetto su cui avevo fantasticato per anni.
 

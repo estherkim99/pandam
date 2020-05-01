@@ -4,7 +4,7 @@
 <!-- Slideshow container -->
 <div class="slideshow-container">
   {{ with .Site.GetPage "/categories/english" }}
-  {{ range first 3 .Data.Pages.ByDate.Reverse }}
+  {{ range first 5 .Data.Pages.ByDate.Reverse }}
   <!-- Full-width images with number and caption text -->
   <div class="slideshow fade">
     <img src="{{ .Site.BaseURL }}{{ .Params.mainImage}}" style="width:100%">
@@ -19,44 +19,36 @@
 </div>
 <br>
 
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-</div>
-
-
 <div class="news-update">
 
   <div class="news-container">
-    <h1 class="latest ">Latest</h1>
-  <ul class="row-container" >
-    {{ with .Site.GetPage "/categories/english" }}
-  {{ range first 4 .Data.Pages.ByDate.Reverse }}
-  <li class="row">
-    <div class>
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    </div>
-  </li>
-  {{ end }}
-  {{ end }}
-</ul>
-</div>
-<div class="news-container">
-  <h1 class="trending ">Amsterdam Trending</h1>
-  <ul class="row-container">
-    {{ with .Site.GetPage "/categories/english" }}
-  {{ range first 4 .Data.Pages }}
-  <li class="row">
-    <div class>
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    </div>
-  </li>
-  {{ end }}
-  {{ end }}
-</ul>
-</div>
+    <h1 class="latest ">Latest News</h1>
+    <ul class="row-container">
+      {{ with .Site.GetPage "/categories/english" }}
+      {{ range first 4 .Data.Pages.ByDate.Reverse }}
+      <li class="row">
+        <div class>
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        </div>
+      </li>
+      {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+  <div class="news-container">
+    <h1 class="trending ">Latest Blog Post</h1>
+    <ul class="row-container">
+      {{ with .Site.GetPage "/blog" }}
+      {{ range first 4 .Data.Pages }}
+      <li class="row">
+        <div class>
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        </div>
+      </li>
+      {{ end }}
+      {{ end }}
+    </ul>
+  </div>
 </div>
 
 

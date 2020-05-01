@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:5500/public/css/index.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script>
+    $(function () {
+        $('.navbar-container').hover(function () {
+            $('#menu-box').animate({ height: 200 }, 0)
+        }, function () {
+            $('#menu-box').animate({ height: 0 },200)
+        })
+    })
+</script>
+<script>
+
+</script>
+
+
+<body>
+    <header class="navbar-container noselect" onclick="toggleMenu()">
+        <div class="navbar">
+                <div class="name-container">
+                    <a href="http://127.0.0.1:5500/public/index.html">PANDAM</a>
+                </div>
+                                
+                <div class="menu-items-list">
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/index.html">Home</a></div>
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/archive/index.html">News</a></div>
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/blog/index.html">Blog</a></div>
+            <div class="menu-item"><a href="http://127.0.0.1:5500/public/about/index.html">About</a></div>
+        </div>
+        <div>
+            <img class="navbar-logo" src="http://127.0.0.1:5500/public/img/logo.jpeg" href="http://127.0.0.1:5500/public/index.html">
+        </div>
+        </div>
+
+    </header>
+    <div class="main">
+
+<div class="archive-container">
+  <h1 class="archive-title">Blog</h1>
+  <div class="archived-articles-container">
+<ul>
+  
+  
+    <li class="doc">
+    <h2 ><a href="http://127.0.0.1:5500/public/blog/blogpost2/">Blog post 2</a></h2>
+    <p>Friday, Feb 7, 2020, by Scintilla Benevolo</p>
+    </li>
+  
+    <li class="doc">
+    <h2 ><a href="http://127.0.0.1:5500/public/blog/blogpost1/">Blog Post 1</a></h2>
+    <p>Friday, Feb 7, 2020, by PanDam</p>
+    </li>
+  
+
+  
+  </ul>
+  </div>
+
+</div>
+
+
+</div>
+<footer>
+    <p class="copyright">Copyright &copy; 2020 PanDam. All rights reserved.</p>
+</footer>
+</body>
+
+
+
+<script>
+    var slideIndex = 0;
+  showSlides();
+  function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("slideshow");
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}
+    slides[slideIndex-1].style.display = "block";
+    setTimeout(showSlides, 2000);
+  }
+  </script>
+
+
+</html>

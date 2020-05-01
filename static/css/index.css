@@ -10,6 +10,14 @@ a, a:visited {
     text-decoration: unset;
     color: unset;
 }
+h1, h2, h3 {
+  color: #393045;
+}
+
+.navbar-logo {
+  padding: 0px 20px;
+  height: 70px;
+}
 
 
 .navbar-container {
@@ -19,42 +27,50 @@ a, a:visited {
     width: 1440px;
     height: 70px;
     background-image: linear-gradient(130deg, #FFFFFF 0 40%,
-            #FCF0F3 91.4% 91.8%,
-            #DE5C80 91.8% 92.2%,
-            #FCF0F3 92.2% 92.6%,
-            #DE5C80 92.6% 93%,
-            #FCF0F3 93% 93.4%,
-            #DE5C80 93.4% 93.8%,
-            #FCF0F3 93.8% 94.2%,
-            #DE5C80 94.2% 94.6%,
-            #FCF0F3 94.6% 95%, #DE5C80 95%)
+            #FCF0F3 100%)
 }
 
 .navbar {
     position: absolute;
     left: 0;
     top: 0px;
-    width: 1020px;
+    width: 100vw;
     height: 70px;
 
 }
 
 .name-container {
     position: absolute;
-    left: 30px;
+    left:100px;
     top: 0px;
-    height: 70px;
+    height: fit-content;
     width: 200px;
-    font-size: x-large;
 
+    line-height: 70px;
 }
 
-.name-container h1 {
-    position: absolute;
+.name-container a {
     font-family: 'IBM Plex Sans', sans-serif;
-    color: #4f5d75;
+    color: #685F74;
     top: 5px;
-    height:65px;
+    font-size: 40px;
+}
+
+.menu-items-list {
+    position: absolute;
+    left: 300px;
+    width: 600px;
+}
+
+.menu-item {
+    display: inline-block;
+    top: 10px;
+    height: 60px;
+    font-size: 20px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    width: 100px;
+    padding:20px 20px;
+
 }
 
 #menu-box {
@@ -140,7 +156,7 @@ a, a:visited {
     width: auto;
     margin-top: -22px;
     padding: 16px;
-    color: white;
+    color: #F3E0EC;
     font-weight: bold;
     font-size: 18px;
     transition: 0.6s ease;
@@ -161,7 +177,9 @@ a, a:visited {
 
   /* Caption text */
   .text {
-    color: black;
+    color: 261D32;
+    background-color: pink;
+
     font-size: large;
     padding: 8px 12px;
     position: absolute;
@@ -219,15 +237,16 @@ a, a:visited {
 
   /* footer */
   .copyright {
-      background-color: lightgrey;
+      background-color: #E1D5DE;
       position: relative;
       display: block;
       width: 100%;
       bottom: 0;
       font: medium;
       text-align: center;
+      margin: 0px, 0px;
       padding:30px 0px;
-      padding-bottom: 50px;
+      padding-bottom: 30px;
   }
 
 
@@ -239,7 +258,7 @@ a, a:visited {
     padding: 0;
     margin: 0;
     top: 0;
-    background-color: lightgrey;
+    background-color: #C9BEC6;
     width: 100%;
   }
 
@@ -309,7 +328,7 @@ a, a:visited {
     width: 100%;
     display: block;
     height: fit-content;
-    background-color: lightgrey;
+    background-color: #E1D5DE;
   }
 
   .pandam-logo {
@@ -408,6 +427,7 @@ a, a:visited {
   }
 
   .news-update h2 {
+
     font-family: 'Source Sans Pro', sans-serif;
     font-size: large;
 
@@ -420,6 +440,7 @@ a, a:visited {
   }
 
   .news-container {
+    vertical-align: top;
     width: 40%;
     display: inline-block;
     margin: 4%;
@@ -428,7 +449,7 @@ a, a:visited {
 
   .archive-container {
     display: block;
-    width: 100%;
+    width: 100vw;
   }
 
   .archive-title {
@@ -439,15 +460,22 @@ a, a:visited {
   }
 
   .archived-articles-container {
-    list-style-type: disc;
-    width: 100%;
+    width: 100vw;
 
+  }
+  .archive-container ul {
+    list-style-type: none;
+    margin: 0 30vw;
+    padding-bottom: 30px;
+
+  }
+
+  .archive-container ul li {
+    padding-bottom: 10px;
   }
 
   .doc {
     font-family: 'Source Sans Pro', sans-serif;
-    margin-left: 33%;
-    width: 60%;
   }
 
   .doc h2 {
