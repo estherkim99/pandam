@@ -1,7 +1,7 @@
 +++
 author = "PanDam"
 date = "2020-04-11"
-title = "Coronavirus and democracy, what do Amsterdam students think of the ongoing social crisis? is a nightmare"
+title = "Coronavirus and democracy, what do Amsterdam students think of the ongoing social crisis?"
 linktitle = "Coronavirus and democracy, what do Amsterdam students think of the ongoing social crisis?"
 categories = ["English"]
 tags = [
