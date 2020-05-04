@@ -19,6 +19,7 @@ _pics credit: XR_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La società civile svolge un ruolo fondamentale nel plasmare il percorso dopo COVID-19. PanDam ha parlato con Camille Miellca e Valentin Jully due attiviste di Extinction Rebellion Amsterdam.
 
+<br>
 
 ## COVID-19 e riscaldamento globale: una “pausa” necessaria per il nostro pianeta o una condanna a morte?
 
@@ -33,7 +34,7 @@ _pics credit: XR_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Nel complesso, penso che, come tutto, se questa crisi finirà per essere un bene per l’ambiente o meno dipenderà dalla nostra reazione ad essa. A partire da ora è una pausa importante per il pianeta, ma durerà? **Il risultato dipenderà da ciò che sceglieremo di fare e da “noi” mi riferisco a noi, la società civile.** Spero che saremo in grado di riorganizzarci in modo da consumare meno e utilizzare l’energia in modo più ragionevole ”.
 
-
+<br>
 
 ## TLa crisi COVID dimostra che se i governi lo ritengono necessario, possono adottare misure drastiche e radicali in modo efficiente: perché non è successo con il clima?
 
@@ -41,6 +42,7 @@ _pics credit: XR_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camille ha espresso un pensiero simile: “Penso che dimostri che se ai cittadini viene detta la verità sui rischi di **una situazione e sul comportamento che devono avere – e sui sacrifici che potrebbero aver bisogno di farli – la maggior parte di loro capirebbe**, seguirebbe le regole e parteciperebbe anche con solidarietà, creatività e coraggio (come quello mostrato dagli operatori sanitari). Penso che sia una grande lezione da ricordare per tutti: possiamo costruire comunità, possiamo fidarci gli uni degli altri, possiamo trovare soluzioni insieme ”.
 
+<br>
 
 ## Sulla giustizia climatica
 
@@ -49,6 +51,8 @@ _pics credit: XR_
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Valentin estende questi pensieri ai cittadini dei paesi produttori – come il Bangladesh, dove ha vissuto – poiché questi paesi sono anche i più inquinati, e studi recenti suggeriscono che l’inquinamento atmosferico è collegato a un rischio di morte COVID-19 più elevato. Per non parlare del fatto che essere al sicuro e in lockdown è senza dubbio impossibile per le persone senza una casa e che devono continuare a lavorare a tutti i costi per sopravvivere: **“A Dakka, la maggior parte delle persone vive nei sobborghi, dove un lockdown è impossibile: le persone non hanno casa e pochi soldi per comprare cibo.** In questo senso, COVID-19 sarà molto difficile in questi paesi ”.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Possiamo anche vedere l’ingiustizia su scala minore nei nostri paesi: se sei ricco puoi isolarti nella tua casa in montagna con un giardino, ma se vivi in ​​periferia potresti condividere la tua casa con cinque persone, e la quarantena diventa molto più difficile. Inoltre, le parti più economiche della città sono quelle vicino alle strade trafficate e agli aeroporti, dove i livelli di inquinamento dell’aria sono più alti e contrarre il virus è più facile perché queste aree sono anche le più densamente popolate ”, spiega Valentin.
+
+<br>
 
 ## XR online e ribelli digitali
 
@@ -60,6 +64,7 @@ _pics credit: XR_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XR UK sta anche organizzando uno sciopero del debito, una forma di ribellione digitale, ispirato alla disobbedienza civile online di Hong Kong”, spiega Valentin. “Uno sciopero del debito è un modo efficace per bloccare le attività delle banche mobilitando le persone a rifiutare di pagare le loro rate del debito. In questo modo si crea una pressione sulle banche, che è un’opportunità per far sentire la propria voce ”.
 
+<br>
 
 ## Qual è il significato di tutto questo?
 

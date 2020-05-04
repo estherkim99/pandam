@@ -20,7 +20,7 @@ _[Italian Translation](../2020-03-21-racism-ripoff-it/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numbers released by Statistics Netherlands revealed that, in 2018, the number of foreigners who registered at a Dutch municipality exceeded the number of people who left by 69.5 thousand. In 2018, between January and March,  186 thousand immigrants moved to the Netherlands; 4.5k more than during the same period in 2017. Amsterdam is known to be a truly liberal city, tolerant, welcoming and with a high quality of life that is why the number of foreigners settling here is not likely to decrease anytime soon. The result? A huge and unprecedented housing crisis, one which is forcing people to pay fortunes and live in unbearable conditions. Here are some of their stories.
 
-
+<br>
 
 ## A room in Amsterdam? Bye bye rights
 
@@ -30,7 +30,7 @@ _[Italian Translation](../2020-03-21-racism-ripoff-it/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;House hunters go through unmeasurable struggles looking on the internet for a roof to put on their head. Top issue is the sky high monthly rent, but also the unrealistic income requirements. Agencies ask for one month rent as a non-refundable service fee, which is illegal, and some landlords ask for 2 or even 3 months rent as deposit. A deposit to which they hold on savagely once the contract expires. There is a more disturbing trend: often internationals get discriminated on the housing market because of their nationalities. Some landlords, many room hunters say, tell Slovak, Greek and Romanian that they are “too poor to afford a room in Amsterdam”. Males admit that many landlords prefer females, and sometimes those who don’t smoke weed or drink alcohol are rejected from student flats because potential flatmates considered them antisocial.
 
-
+<br>
 
 ## Psychological draining
 
@@ -40,6 +40,7 @@ _[Italian Translation](../2020-03-21-racism-ripoff-it/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another current renter in Amsterdam, who also doesn’t want to be named, remembers sexual intimidation from her landlord, who was living in the apartment. He would make inappropriate comments about her body and soon she realised she and her flatmate had no lock on her door. **“He entered our rooms without permission or sublet them without permission while we were gone for the weekend.** “In return for a discount on the rent,  I had to clean the whole house every day’”. This ‘discount’, she says, was because he was attracted by her.
 
+<br>
 
 ## Struggles with registration
 
@@ -49,7 +50,7 @@ _[Italian Translation](../2020-03-21-racism-ripoff-it/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this jungle, budget tenants have no much choice but turning to the black market:  many pay -illegally- extra fees to register to an address where they don’t live. To be in the place to be, Amsterdam, people is ready to adapt to anything to find a place to sleep: A renter whose anonymity will be kept remembers sleeping on the floor of her friend’s tiny attic during her first 6 months in Amsterdam. She eventually found a place with registration, but the situation these wasn’t much brighter: “my gay friend and I pretended to be a couple for a year to the landlord. We made a deal where I slept in the bedroom area with the en suite bathroom, he slept in the living room where the kitchen was, and we illegally sublet the small box room to a friend for 1 year”.
 
-
+<br>
 
 ## What do landlords think?
 

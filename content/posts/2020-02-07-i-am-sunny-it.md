@@ -21,6 +21,7 @@ _[Tradotto dall’inglese](../2020-02-07-i-am-sunny-en/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sunny preferisce lavorare privatamente, ma ha anche esperienze di lavoro nel Red Light District. “Preferisco gestirmi da sola perché ho il tempo di prepararmi, farmi bella e dedicare più tempo al cliente. La pressione è alta quando lavori nel Red Light District, tutto va più velocemente, devi negoziare e io odio farlo! Ma rispetto le ragazze che lavorano energicamente per 7-8 ore.”
 
+<br>
 
 ##  Dietro le quinte
 
@@ -34,6 +35,7 @@ _[Tradotto dall’inglese](../2020-02-07-i-am-sunny-en/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lavorando in una casa chiusa, Sunny ha imparato che il confine tra sfruttamento e scelta personale è una linea sottile. “Immaginate una coppia dove solo l’uomo lavora e con il suo stipendio paga l’auto della fidanzata, le vacanze e gli alimenti. Adesso immaginate la stessa coppia dove solo la donna lavora, ma come sex worker. La prima situazione è considerata normale e accettabile, tuttavia molti direbbero che la seconda è sfruttamento. Ma è davvero sfruttamento o è scelta personale? Se la ragazza è felice, chi siamo noi per giudicare?”
 
+<br>
 
 ## Un lavoro come tutti gli altri
 
@@ -43,6 +45,7 @@ _[Tradotto dall’inglese](../2020-02-07-i-am-sunny-en/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Femke Halsema ha anche proposto di chiudere il Red Light District e spostarlo in un grande hotel fuori dal centro di Amsterdam. “Siamo davvero preoccupati,” afferma Sunny. “Adesso lavoriamo in centro, è abbastanza sicuro qui. Ci sono le telecamere, molta polizia in giro e abbiamo molta visibilità. Ma in un hotel fuori dal centro dobbiamo preoccuparci della nostra sicurezza.” Questa netta separazione rischia di aumentare l’emarginazione dei sex worker, rendendoli più vulnerabili ai crimini d’odio.
 
+<br>
 
 ## App per incontri
 

@@ -21,7 +21,7 @@ _[Italian Translation](../2020-02-07-i-am-sunny-it/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sunny mostly works through private escort services, but also has some experience in the Red Light District, “I prefer escort services because I have time to get ready, make myself pretty, and spend some time with the customer. Pressure is high when you are working **in the Red Light District, everything moves quickly, you need to negotiate, and I am terrible at negotiating! I really respect the girls that power through 7-8 hour shifts.”**
 
-
+<br>
 
 ## Behind the curtains
 
@@ -31,7 +31,7 @@ _[Italian Translation](../2020-02-07-i-am-sunny-it/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Working in a brothel, Sunny learned that drawing the line between exploitation and choice can sometimes be challenging, “Imagine a couple where only the man works and uses his income to pay for his girlfriend’s car, vacation, food, etc. Now imagine a couple where only the woman works, as a sex worker, and uses her income to pay for her boyfriend’s car, vacation, food, etc. The first scenario is considered normal and acceptable, **but many would be keen to label the second as exploitation. But is it exploitation, or is it choice? If the girl seems happy with her decision, are we in a position to judge?”.**
 
-
+<br>
 
 ## A job like any other
 
@@ -41,6 +41,7 @@ _[Italian Translation](../2020-02-07-i-am-sunny-it/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Femke Halsema is also proposing to close the Red Light District as we know it, and move it instead into a “big love hotel” outside the city center. “There are serious safety concerns to this,” explains Sunny. “Right now we are in the city center, it’s pretty safe here. There are cameras, there is police, and most importantly we are out in the open. But in closed hotels outside the city sex workers would have to worry about their safety”. This physical exclusion also risks to intensify the marginalization of sex workers, making them more vulnerable to hate crimes.
 
+<br>
 
 ## Dating apps
 
