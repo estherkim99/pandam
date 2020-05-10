@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on PanDam Amsterdam</title>
-    <link>https://estherkim99.github.io/pandam/public/categories/</link>
+    <link>https://estherkim99.github.io/pandam/categories/</link>
     <description>Recent content in Categories on PanDam Amsterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://estherkim99.github.io/pandam/public/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://estherkim99.github.io/pandam/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>English</title>
-      <link>https://estherkim99.github.io/pandam/public/categories/english/</link>
+      <link>https://estherkim99.github.io/pandam/categories/english/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/public/categories/english/</guid>
+      <guid>https://estherkim99.github.io/pandam/categories/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Italian</title>
-      <link>https://estherkim99.github.io/pandam/public/categories/italian/</link>
+      <link>https://estherkim99.github.io/pandam/categories/italian/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/public/categories/italian/</guid>
+      <guid>https://estherkim99.github.io/pandam/categories/italian/</guid>
       <description></description>
     </item>
     
