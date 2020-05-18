@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+
+<div class="archive-container">
+  <h1 class="archive-title">Articles in English</h1>
+  <div class="archived-articles-container">
+<ul>
+  {{ with .Site.GetPage "/categories/english" }}
+  {{ range .Data.Pages.ByDate.Reverse }}
+    <li class="doc">
+    <h2 ><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Date.Format "Monday, Jan 2, 2006"  }}, by {{ .Params.author }}</p>
+    </li>
+  {{ end }}
+
+  {{ end }}
+  </ul>
+  </div>
+
+</div>
+
+
+{{ partial "footer.html" . }}
