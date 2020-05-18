@@ -11,7 +11,7 @@ mainImage = "/img/posts/2020/2020-04-28-extinction.jpg"
 
 _[Italian Translation](../2020-04-28-extinction-it/)_
 
-_pics credit: XR_
+_pics credit: XR, Sam ten Thij en Teresa, Extinction Rebellion NL_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As the world slowly takes its first steps out of lockdown one aspect is becoming increasingly clear: we need to re-think our social interactions, the way we will manage our environment in the future, and above all the way we define human values. The current COVID-19 crisis might offer a unique perspective to learn from. **The current debate seems to focus around how we can regain the status quo and return to our old lifestyle – “once all of this will be over“.** However, we could instead be using this crisis to fundamentally rewrite the way we live,  because global warming is and will be an even more challenging task than the Covid pandemic.
 
@@ -43,7 +43,7 @@ _pics credit: XR_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;According to Valentin this applies to the citizens of producer countries -like Bangladesh, a country he knows well and in which he has lived in the past- since those countries are also the most polluted, and recent studies suggest that air pollution is linked to a higher COVID-19 death risk. Not to mention that staying safe and in lockdown is arguably impossible for those who don’t have a home and can’t work in remote: “In Dakka, where the majority of people live in slums a lockdown is impossible: locals have often no home and no savings to buy food. In this sense, COVID-19 will be very problematic there”.
 
-<label style="text-align: right;">Credits to Sam ten Thij en Teresa</br></label>
+<!-- <label style="text-align: right;">Credits to Sam ten Thij en Teresa</br></label> -->
 <img alt="" align="right" src="/img/posts/2020/2020-04-28-extinction-2.jpg" width="300px">
 
 
@@ -55,7 +55,7 @@ _pics credit: XR_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The theory of change of XR is that of mass mobilizations and civil disobedience which, in times of isolation, is far from feasible. But the XR movement is developing many creative ideas to keep building pressure and expressing their voice and demands. For example, [on Monday 13th XR NL left a letter](https://extinctionrebellion.nl/en/we-kunnen-het-niet-alleen/) and chalked message at the doorstep of Dutch political parties, asking to keep the climate crisis high-up on the political agenda while involving citizens in decision-making through Citizens’ Consultations: “We think it is very important to listen to the science and ask you to do the same. Not only when it comes to the COVID-19 crisis, but also when it comes to the current climate and ecological crisis. We cannot go back to ‘normal’, ‘normal’ was precisely the problem. With love, anger and respect, we wish you a Happy Easter”.
 
-<label style="text-align: left;">Credits to Extinction Rebellion NL</br></label>
+<!-- <label style="text-align: left;">Credits to Extinction Rebellion NL</br></label> -->
 <img alt="" align="left" src="/img/posts/2020/2020-04-28-extinction-3.jpg" width="300px">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“XR UK is also organizing a debt strike -a form of digital rebellion- inspired by Hong Kong’s online civil disobedience,” explains Valentin.  “A debt strike is an effective way to block the activities of banks. In this way, pressure is built up on banks, which is an opportunity to make demands heard”.

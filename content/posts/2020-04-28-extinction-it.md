@@ -11,7 +11,7 @@ mainImage = "/img/posts/2020/2020-04-28-extinction.jpg"
 
 _[Tradotto dall’inglese](../2020-04-28-extinction-en/)_
 
-_pics credit: XR_
+_pics credit: XR, Sam ten Thij en Teresa, Extinction Rebellion NL_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentre il mondo muove i primi passi dal blocco, un aspetto sta diventando sempre più chiaro: dobbiamo ripensare le nostre interazioni sociali, il modo in cui sceglieremo di gestire il nostro ambiente in futuro, così come i nostri valori. A questo proposito, l’attuale crisi COVID-19 potrebbe offrire una finestra unica di opportunità per imparare e riflettere su questioni fondamentali.
 
@@ -27,7 +27,7 @@ _pics credit: XR_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ancora peggio, aziende e governi di tutto il mondo stanno sfruttando questo momento per promuovere progetti ecocidi, mentre le popolazioni sono isolate e non possono protestare “. Questi sviluppi sono preoccupanti, soprattutto se si considera che COVID-19 è un sintomo della incombente crisi ambientale: “Molti scienziati hanno avvertito negli ultimi decenni che un focolaio di virus pandemico mortale rappresentava un grave rischio a causa **della deforestazione e dello sfruttamento della fauna selvatica”.**
 
-<label style="text-align: left;">Credits to Extinction Rebellion NL</br></label>
+<!-- <label style="text-align: left;">Credits to Extinction Rebellion NL</br></label> -->
 <img alt="" align="left" src="/img/posts/2020/2020-04-28-extinction-3.jpg" width="300px">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Valentin, d’altra parte, cerca di assumere una posizione più ottimista: “In realtà c’è un lato positivo significativo. Il petrolio più economico rende il fracking negli Stati Uniti e nel Canada del Nord meno redditizio e può persino portare alla chiusura di alcune centrali di estrazione, **perché i costi di gestione sono troppo elevati rispetto al prezzo per cui il prodotto può essere venduto ”**. Il petrolio a buon mercato, tuttavia, ha anche il suo svantaggio: ad esempio, altre fonti di energia, comprese le energie rinnovabili, **diventano meno redditizie e quindi attraenti.**
@@ -58,7 +58,7 @@ _pics credit: XR_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La teoria del cambiamento di XR è quella delle mobilitazioni di massa e della disobbedienza civile che, **in periodi di isolamento, è tutt’altro che fattibile.** Ma il movimento XR sta sviluppando molte alternative creative per continuare a costruire pressione ed esprimere la propria voce e le proprie esigenze. Ad esempio, lunedì 13 XR NL ha disegnato un messaggio sulla porta dei partiti politici, chiedendo di mantenere la crisi climatica in cima all’agenda politica e coinvolgendo i cittadini nel processo decisionale attraverso le Consultazioni dei cittadini: “Pensiamo sia molto importante ascoltare la scienza e chiederti di fare lo stesso. Non solo quando si tratta della crisi COVID-19, ma anche quando si tratta dell’attuale clima e della crisi ecologica. Non possiamo tornare alla “normalità”, “normale” era proprio il problema. Con amore, rabbia e rispetto, ti auguriamo una buona Pasqua “.
 
-<label style="text-align: right;">Credits to Sam ten Thij en Teresa</br></label>
+<!-- <label style="text-align: right;">Credits to Sam ten Thij en Teresa</br></label> -->
 <img alt="" align="right" src="/img/posts/2020/2020-04-28-extinction-2.jpg" width="300px">
 
 
