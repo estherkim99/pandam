@@ -9,7 +9,6 @@ tags = [
 mainImage = "/img/posts/2020/2020-02-29-social-and-diverse.jpg"
 +++
 
-_[Italian Translation](../2020-02-29-social-and-diverse-it/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When thinking about art and museums in Amsterdam, Museumsplein -in the middle of the City center its the first place that one would think. Or, for the more local sort, Jordaan and its variety of bohemian galleries, offers a selection of fine art and sculptures. But rarely does Amsterdam South East, Zuid Oost, Watergrafsmeer blurring into Bijlmer blurring into Diemen, springs to mind.
 

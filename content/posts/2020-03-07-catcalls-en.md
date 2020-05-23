@@ -9,8 +9,6 @@ tags = [
 mainImage = "/img/posts/2020/2020-03-07-catcalls.jpg"
 +++
 
-_[Tradotto dall’inglese](../2020-03-07-catcalls-it/)_
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Since I started ‘Cat Calls of Amsterdam’ I developed this sixth sense: every time someone is about to catcall me or my friend, **or just a random stranger**, a radar goes off in me; the presence of it is so much there,“ says Ambrien Moenrialam, founder of the Instagram site ‘_[Cat Calls of Amsterdam](https://www.instagram.com/catcallsofams/?hl=en)_’. Together with her team of three, she collects messages people send her of their cat calling experiences. They then visit the place where it happened and chalk the messages there.  She hopes her project will increase consciousness about the issue. “I have become more aware, but I also feel empowered, because when I walk through the city it feels like I reclaimed Amsterdam back, not for myself, but for all those who suffer from this micro aggression. At the same time we want to educate people, those who don’t understand how disturbing cat calling could be or do it.”
 
 

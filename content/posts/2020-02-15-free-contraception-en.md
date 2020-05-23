@@ -10,8 +10,6 @@ mainImage = "/img/posts/2020/2020-02-15-free-contraception.jpg"
 +++
 Pic credit: Robin Butter
 
-_[Italian Translation](../2020-02-15-free-contraception-it/)_
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 1972 -following an intense campaign from the Dutch feminist group Dolle Mina- the Netherlands declared contraception free for all. Yesterday, on Valentine, “the day of love”, Dutch women are experiencing a déjà vu: feminist legal firm Bureau Clara Wichmann and NGO De Goede Zaak handed over a subpoena **demanding free contraception for all to the high council in Amsterdam.**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PanDam spoke to Femke Zeven, spokesperson for Bureau Clara Wichmann: “It was really nice to be at the High Council with all of the organizations and individuals that together are also supporting the case as a group. **To have Minister Bruins actually come outside and accept the subpoena from us was a symbolic moment for this important lawsuit we are filing today.”**

@@ -15,8 +15,6 @@ tags = [
 mainImage = "/img/posts/2020/2020-02-07-i-am-sunny.jpg"
 +++
 
-_[Italian Translation](../2020-02-07-i-am-sunny-it/)_
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sunny is a sex worker in Amsterdam. You will sometimes find her at the Prostitution Information Center, sitting on Enge Kerksteeg 3, ready to answer all your questions over a steaming mint tea waiting to be served. The Center is very beautifully decorated, pictures and posters adorne its walls, and towards the back is a spacious wooden table. People often take pictures from outside, but when someone tried doing so during our interview Sunny rushed to the **window and waved her arms in disapproval, [“we don’t want people to just take pictures, we want them to come in for a chat”.](https://www.31mag.nl/dutch-cities-sex-worker-advocates-raise-concerns-over-proposed-law/)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sunny mostly works through private escort services, but also has some experience in the Red Light District, “I prefer escort services because I have time to get ready, make myself pretty, and spend some time with the customer. Pressure is high when you are working **in the Red Light District, everything moves quickly, you need to negotiate, and I am terrible at negotiating! I really respect the girls that power through 7-8 hour shifts.”**

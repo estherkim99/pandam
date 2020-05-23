@@ -25,8 +25,6 @@ Photo via: [Wikimedia](https://en.wikipedia.org/wiki/Zine#/media/File:SF_punk_zi
 <a class="mw-mmv-license" href="https://creativecommons.org/licenses/by/2.0" target="_blank" rel="noopener noreferrer">CC BY 2.0</a>
 <a href="">Lindsay Eyink&nbsp; &nbsp;Licence&nbsp;</a> -->
 
-_[Italian Translation](../2020-02-22-printed-and-rebel-it/)_
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who would ever expect to **find an anarchist bookshop in Jodenbreestraat Street**, one of the most touristic spots of the capital? And yet there stands Fort of Sjakoo, one of the eldest stores of its kind, packed with shelves full of **anarchist, feminist and left-wing political publications**; the thoughts of some of the most important thinkers of history lay in ancient books, waiting to be read.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But the ten volunteers who run the bookshop have also made it their mission to provide a safe haven for zines, hand-made and self-published short magazines which display a creative combination of imagery and text on **content that ranges all the way from science-fiction stories to justifying animal rights and vegetarianism.**

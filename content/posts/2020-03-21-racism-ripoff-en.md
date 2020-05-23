@@ -16,7 +16,6 @@ tags = ["racism",
 mainImage = "/img/posts/2020/2020-03-21-racism-ripoff.jpg"
 +++
 
-_[Italian Translation](../2020-03-21-racism-ripoff-it/)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numbers released by Statistics Netherlands revealed that, in 2018, the number of foreigners who registered at a Dutch municipality exceeded the number of people who left by 69.5 thousand. In 2018, between January and March,  186 thousand immigrants moved to the Netherlands; 4.5k more than during the same period in 2017. Amsterdam is known to be a truly liberal city, tolerant, welcoming and with a high quality of life that is why the number of foreigners settling here is not likely to decrease anytime soon. The result? A huge and unprecedented housing crisis, one which is forcing people to pay fortunes and live in unbearable conditions. Here are some of their stories.
 

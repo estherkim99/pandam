@@ -9,9 +9,7 @@ tags = ["air pollution", "climate action",
 mainImage = "/img/posts/2020/2020-04-28-extinction.jpg"
 +++
 
-_[Italian Translation](../2020-04-28-extinction-it/)_
-
-_pics credit: XR, Sam ten Thij en Teresa, Extinction Rebellion NL_
+_Photo credits: XR, Sam ten Thij en Teresa, Extinction Rebellion NL_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As the world slowly takes its first steps out of lockdown one aspect is becoming increasingly clear: we need to re-think our social interactions, the way we will manage our environment in the future, and above all the way we define human values. The current COVID-19 crisis might offer a unique perspective to learn from. **The current debate seems to focus around how we can regain the status quo and return to our old lifestyle – “once all of this will be over“.** However, we could instead be using this crisis to fundamentally rewrite the way we live,  because global warming is and will be an even more challenging task than the Covid pandemic.
 
