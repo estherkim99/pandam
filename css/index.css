@@ -275,6 +275,11 @@ h1, h2, h3 {
 
   .article-container p {
     text-align: left;
+
+  }
+
+  .article-content img {
+    padding: 10px;
   }
 
   .article-title {
@@ -292,6 +297,10 @@ h1, h2, h3 {
     line-height: 2em;
     text-align: left;
     padding: 30px 0px;
+  }
+
+  .article-content p {
+    padding-bottom: 0.5em;
   }
 
   .article-content a {
