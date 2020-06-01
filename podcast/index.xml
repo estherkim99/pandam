@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PanDam Amsterdam</title>
-    <link>https://pandam-magaizine.heroku.com/podcast/</link>
+    <link>https://pandam-magazine.herokuapp.com/podcast/</link>
     <description>Recent content on PanDam Amsterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pandam-magaizine.heroku.com/podcast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pandam-magazine.herokuapp.com/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Weird Times with Jeffrey</title>
-      <link>https://pandam-magaizine.heroku.com/podcast/podcast-1/</link>
+      <link>https://pandam-magazine.herokuapp.com/podcast/podcast-1/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://pandam-magaizine.heroku.com/podcast/podcast-1/</guid>
+      <guid>https://pandam-magazine.herokuapp.com/podcast/podcast-1/</guid>
       <description></description>
     </item>
     
