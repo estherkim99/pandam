@@ -1,6 +1,6 @@
 # baseURL = "https://estherkim99.github.io/pandam"
 # baseURL = "http://127.0.0.1:5500/public"
-baseURL = "https://pandam-magaizine.heroku.com"
+baseURL = "https://pandam-magazine.herokuapp.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 author = "Esther Kim"

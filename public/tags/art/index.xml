@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>art on PanDam Amsterdam</title>
-    <link>https://pandam-magaizine.heroku.com/tags/art/</link>
+    <link>https://pandam-magazine.herokuapp.com/tags/art/</link>
     <description>Recent content in art on PanDam Amsterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pandam-magaizine.heroku.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pandam-magazine.herokuapp.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OT301 on turning political developments into something real</title>
-      <link>https://pandam-magaizine.heroku.com/posts/2020-05-14-ot301/</link>
+      <link>https://pandam-magazine.herokuapp.com/posts/2020-05-14-ot301/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://pandam-magaizine.heroku.com/posts/2020-05-14-ot301/</guid>
+      <guid>https://pandam-magazine.herokuapp.com/posts/2020-05-14-ot301/</guid>
       <description>OT301 is a cultural hotspot in Amsterdam. Questioning its narrative as an autonomous space; we tried to engage with OT301’s history and the current state of affairs.
  Back in the ’80s, the lack of affordable housing helped the squatting movement to emerge in the Netherlands. ‘Squatting’ is what most would describe as occupying, living, in an abandoned building; not just out of necessity, but as a conscious political act.</description>
     </item>
     
     <item>
       <title>Printed and rebel, Amsterdam’s zine scene survives hipsters and tourists</title>
-      <link>https://pandam-magaizine.heroku.com/posts/2020-02-22-printed-and-rebel-en/</link>
+      <link>https://pandam-magazine.herokuapp.com/posts/2020-02-22-printed-and-rebel-en/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://pandam-magaizine.heroku.com/posts/2020-02-22-printed-and-rebel-en/</guid>
+      <guid>https://pandam-magazine.herokuapp.com/posts/2020-02-22-printed-and-rebel-en/</guid>
       <description>Photo via: Wikimedia, Author Lindsay Eyink, Licence CC BY 2.0
 Wikimedia&amp;nbsp; &amp;nbsp; Author: W &amp;nbsp; CC BY 2.0 Lindsay Eyink&amp;nbsp; &amp;nbsp;Licence&amp;nbsp; --  Who would ever expect to find an anarchist bookshop in Jodenbreestraat Street, one of the most touristic spots of the capital? And yet there stands Fort of Sjakoo, one of the eldest stores of its kind, packed with shelves full of anarchist, feminist and left-wing political publications; the thoughts of some of the most important thinkers of history lay in ancient books, waiting to be read.</description>
     </item>
     
     <item>
       <title>Ribelli e stampate: le zine di Amsterdam sopravvivono a hipster e turisti</title>
-      <link>https://pandam-magaizine.heroku.com/posts/2020-02-22-printed-and-rebel-it/</link>
+      <link>https://pandam-magazine.herokuapp.com/posts/2020-02-22-printed-and-rebel-it/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://pandam-magaizine.heroku.com/posts/2020-02-22-printed-and-rebel-it/</guid>
+      <guid>https://pandam-magazine.herokuapp.com/posts/2020-02-22-printed-and-rebel-it/</guid>
       <description>Photo via: Wikimedia, Author Lindsay Eyink, Licence CC BY 2.0
 Tradotto dall’inglese
  Chi si aspetterebbe mai di trovare una libreria anarchica in Jodenbreestraat Street, uno dei luoghi più turistici della capitale? Eppure Fort of Sjakoo, uno dei negozi più grandi e longevi del suo genere, pieno di scaffali pieni di pubblicazioni politiche anarchiche, femministe e di sinistra è proprio lì.
