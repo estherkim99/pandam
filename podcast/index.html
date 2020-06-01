@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PanDam Amsterdam</title>
+    <link rel="stylesheet" type="text/css" href="https://pandam-magaizine.heroku.com/css/index.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script>
+    $(function () {
+        $('.navbar-container').hover(function () {
+            $('#menu-box').animate({ height: 200 }, 0)
+        }, function () {
+            $('#menu-box').animate({ height: 0 },200)
+        })
+    })
+</script>
+<script>
+
+</script>
+
+
+<body>
+    <header class="navbar-container noselect" onclick="toggleMenu()">
+        <div class="navbar">
+                <div class="name-container">
+                    <a href="http://pandam-magazine.com">PANDAM</a>
+                </div>
+                                
+                <div class="menu-items-list">
+            <div class="menu-item"><a href="http://pandam-magazine.com">Home</a></div>
+            <div class="menu-item"><a href="https://pandam-magaizine.heroku.com/archive/">News</a></div>
+            <div class="menu-item"><a href="https://pandam-magaizine.heroku.com/podcast/">Podcast</a></div>
+            
+            <div class="menu-item"><a href="https://pandam-magaizine.heroku.com/about/">About</a></div>
+        </div>
+        <div>
+            <img class="navbar-logo" src="https://pandam-magaizine.heroku.com/img/logo.jpeg" href="https://pandam-magaizine.heroku.com/index.html">
+        </div>
+        </div>
+
+    </header>
+    <div class="main">
+
+<div class="archive-container">
+  <h1 class="archive-title">The Voices of Amsterdam</h1>
+  <div class="archived-articles-container">
+<ul>
+  
+  
+    <li class="doc article-card">
+      <div class="article-card-container">
+        <img class="article-card-img" src="https://pandam-magaizine.heroku.com/img/podcast.jpg" style="width:100%">
+        <h2 class="article-card-title"><a href="https://pandam-magaizine.heroku.com/podcast/podcast-1/">Episode 1:<br>
+          Weird Times with Jeffrey</a></h2>
+        <div class="article-card-description">
+          <p>Friday, May 22, 2020</p>
+        </div>
+      </div>
+
+
+
+    </li>
+  
+
+  
+  </ul>
+  </div>
+
+</div>
+
+
+</div>
+<footer>
+    <p class="copyright">Copyright &copy; 2020 PanDam. All rights reserved.</p>
+</footer>
+</body>
+
+
+
+<script>
+    var slideIndex = 0;
+  showSlides();
+  function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("slideshow");
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}
+    slides[slideIndex-1].style.display = "block";
+    setTimeout(showSlides, 5000);
+  }
+  </script>
+
+
+</html>

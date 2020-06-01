@@ -2,462 +2,507 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PanDam Amsterdam</title>
-    <link>https://estherkim99.github.io/pandam/tags/</link>
+    <link>https://pandam-magaizine.heroku.com/tags/</link>
     <description>Recent content in Tags on PanDam Amsterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://estherkim99.github.io/pandam/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pandam-magaizine.heroku.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Giant Pansy</title>
+      <link>https://pandam-magaizine.heroku.com/tags/giant-pansy/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pandam-magaizine.heroku.com/tags/giant-pansy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>isolation</title>
+      <link>https://pandam-magaizine.heroku.com/tags/isolation/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pandam-magaizine.heroku.com/tags/isolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>online art galleries</title>
+      <link>https://pandam-magaizine.heroku.com/tags/online-art-galleries/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pandam-magaizine.heroku.com/tags/online-art-galleries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stateless-poke</title>
+      <link>https://pandam-magaizine.heroku.com/tags/stateless-poke/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pandam-magaizine.heroku.com/tags/stateless-poke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cool School</title>
+      <link>https://pandam-magaizine.heroku.com/tags/the-cool-school/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pandam-magaizine.heroku.com/tags/the-cool-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>alternative</title>
-      <link>https://estherkim99.github.io/pandam/tags/alternative/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/alternative/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/alternative/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/alternative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amsterdam</title>
-      <link>https://estherkim99.github.io/pandam/tags/amsterdam/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/amsterdam/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/amsterdam/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/amsterdam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amsterdam alternative</title>
-      <link>https://estherkim99.github.io/pandam/tags/amsterdam-alternative/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/amsterdam-alternative/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/amsterdam-alternative/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/amsterdam-alternative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amsterdam prize for the Arts</title>
-      <link>https://estherkim99.github.io/pandam/tags/amsterdam-prize-for-the-arts/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/amsterdam-prize-for-the-arts/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/amsterdam-prize-for-the-arts/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/amsterdam-prize-for-the-arts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>art</title>
-      <link>https://estherkim99.github.io/pandam/tags/art/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/art/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/art/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>autonomy</title>
-      <link>https://estherkim99.github.io/pandam/tags/autonomy/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/autonomy/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/autonomy/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/autonomy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>creativity</title>
-      <link>https://estherkim99.github.io/pandam/tags/creativity/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/creativity/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/creativity/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/creativity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mainstream</title>
-      <link>https://estherkim99.github.io/pandam/tags/mainstream/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/mainstream/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/mainstream/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/mainstream/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OT301</title>
-      <link>https://estherkim99.github.io/pandam/tags/ot301/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/ot301/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/ot301/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/ot301/</guid>
       <description></description>
     </item>
     
     <item>
       <title>squatting</title>
-      <link>https://estherkim99.github.io/pandam/tags/squatting/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/squatting/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/squatting/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/squatting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>food chain</title>
-      <link>https://estherkim99.github.io/pandam/tags/food-chain/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/food-chain/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/food-chain/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/food-chain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>food inequalities</title>
-      <link>https://estherkim99.github.io/pandam/tags/food-inequalities/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/food-inequalities/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/food-inequalities/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/food-inequalities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>food waste</title>
-      <link>https://estherkim99.github.io/pandam/tags/food-waste/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/food-waste/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/food-waste/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/food-waste/</guid>
       <description></description>
     </item>
     
     <item>
       <title>local produce</title>
-      <link>https://estherkim99.github.io/pandam/tags/local-produce/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/local-produce/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/local-produce/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/local-produce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>starvation</title>
-      <link>https://estherkim99.github.io/pandam/tags/starvation/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/starvation/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/starvation/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/starvation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Taste Before You Waste</title>
-      <link>https://estherkim99.github.io/pandam/tags/taste-before-you-waste/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/taste-before-you-waste/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/taste-before-you-waste/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/taste-before-you-waste/</guid>
       <description></description>
     </item>
     
     <item>
       <title>veganism</title>
-      <link>https://estherkim99.github.io/pandam/tags/veganism/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/veganism/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/veganism/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/veganism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>volunteering</title>
-      <link>https://estherkim99.github.io/pandam/tags/volunteering/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/volunteering/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/volunteering/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/volunteering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wasteless Dinners</title>
-      <link>https://estherkim99.github.io/pandam/tags/wasteless-dinners/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/wasteless-dinners/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/wasteless-dinners/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/wasteless-dinners/</guid>
       <description></description>
     </item>
     
     <item>
       <title>air pollution</title>
-      <link>https://estherkim99.github.io/pandam/tags/air-pollution/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/air-pollution/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/air-pollution/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/air-pollution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>climate action</title>
-      <link>https://estherkim99.github.io/pandam/tags/climate-action/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/climate-action/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/climate-action/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/climate-action/</guid>
       <description></description>
     </item>
     
     <item>
       <title>climate crisis</title>
-      <link>https://estherkim99.github.io/pandam/tags/climate-crisis/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/climate-crisis/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/climate-crisis/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/climate-crisis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>climate justice</title>
-      <link>https://estherkim99.github.io/pandam/tags/climate-justice/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/climate-justice/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/climate-justice/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/climate-justice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>covid-19</title>
-      <link>https://estherkim99.github.io/pandam/tags/covid-19/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/covid-19/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/covid-19/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/covid-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>debt strike</title>
-      <link>https://estherkim99.github.io/pandam/tags/debt-strike/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/debt-strike/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/debt-strike/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/debt-strike/</guid>
       <description></description>
     </item>
     
     <item>
       <title>digital rebellions</title>
-      <link>https://estherkim99.github.io/pandam/tags/digital-rebellions/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/digital-rebellions/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/digital-rebellions/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/digital-rebellions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>extinction rebellion</title>
-      <link>https://estherkim99.github.io/pandam/tags/extinction-rebellion/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/extinction-rebellion/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/extinction-rebellion/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/extinction-rebellion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>green switch</title>
-      <link>https://estherkim99.github.io/pandam/tags/green-switch/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/green-switch/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/green-switch/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/green-switch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>inequalitiess</title>
-      <link>https://estherkim99.github.io/pandam/tags/inequalitiess/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/inequalitiess/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/inequalitiess/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/inequalitiess/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coronavirus</title>
-      <link>https://estherkim99.github.io/pandam/tags/coronavirus/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/coronavirus/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/coronavirus/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/coronavirus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>&#39;vekamering&#39; rules</title>
-      <link>https://estherkim99.github.io/pandam/tags/vekamering-rules/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/vekamering-rules/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/vekamering-rules/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/vekamering-rules/</guid>
       <description></description>
     </item>
     
     <item>
       <title>abuse</title>
-      <link>https://estherkim99.github.io/pandam/tags/abuse/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/abuse/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/abuse/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/abuse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>anti-kraak</title>
-      <link>https://estherkim99.github.io/pandam/tags/anti-kraak/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/anti-kraak/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/anti-kraak/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/anti-kraak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>homelessness</title>
-      <link>https://estherkim99.github.io/pandam/tags/homelessness/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/homelessness/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/homelessness/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/homelessness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>housing crisis</title>
-      <link>https://estherkim99.github.io/pandam/tags/housing-crisis/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/housing-crisis/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/housing-crisis/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/housing-crisis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mental health</title>
-      <link>https://estherkim99.github.io/pandam/tags/mental-health/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/mental-health/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/mental-health/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/mental-health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>racism</title>
-      <link>https://estherkim99.github.io/pandam/tags/racism/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/racism/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/racism/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/racism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>registration</title>
-      <link>https://estherkim99.github.io/pandam/tags/registration/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/registration/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/registration/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/registration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amsterdam pants</title>
-      <link>https://estherkim99.github.io/pandam/tags/amsterdam-pants/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/amsterdam-pants/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/amsterdam-pants/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/amsterdam-pants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boekie Woekie</title>
-      <link>https://estherkim99.github.io/pandam/tags/boekie-woekie/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/boekie-woekie/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/boekie-woekie/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/boekie-woekie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fort of Sjakoo</title>
-      <link>https://estherkim99.github.io/pandam/tags/fort-of-sjakoo/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/fort-of-sjakoo/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/fort-of-sjakoo/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/fort-of-sjakoo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kristen Gehrman</title>
-      <link>https://estherkim99.github.io/pandam/tags/kristen-gehrman/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/kristen-gehrman/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/kristen-gehrman/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/kristen-gehrman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pisswife</title>
-      <link>https://estherkim99.github.io/pandam/tags/pisswife/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/pisswife/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/pisswife/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/pisswife/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tessel ten Zweege</title>
-      <link>https://estherkim99.github.io/pandam/tags/tessel-ten-zweege/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/tessel-ten-zweege/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/tessel-ten-zweege/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/tessel-ten-zweege/</guid>
       <description></description>
     </item>
     
     <item>
       <title>zine</title>
-      <link>https://estherkim99.github.io/pandam/tags/zine/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/zine/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/zine/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/zine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prostitution information center</title>
-      <link>https://estherkim99.github.io/pandam/tags/prostitution-information-center/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/prostitution-information-center/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/prostitution-information-center/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/prostitution-information-center/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Red light district</title>
-      <link>https://estherkim99.github.io/pandam/tags/red-light-district/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/red-light-district/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/red-light-district/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/red-light-district/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sex work</title>
-      <link>https://estherkim99.github.io/pandam/tags/sex-work/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/sex-work/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/sex-work/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/sex-work/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sex worker</title>
-      <link>https://estherkim99.github.io/pandam/tags/sex-worker/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/sex-worker/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/sex-worker/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/sex-worker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sunny</title>
-      <link>https://estherkim99.github.io/pandam/tags/sunny/</link>
+      <link>https://pandam-magaizine.heroku.com/tags/sunny/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/tags/sunny/</guid>
+      <guid>https://pandam-magaizine.heroku.com/tags/sunny/</guid>
       <description></description>
     </item>
     
