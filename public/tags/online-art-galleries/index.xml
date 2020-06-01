@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>online art galleries on PanDam Amsterdam</title>
-    <link>https://estherkim99.github.io/pandam/tags/online-art-galleries/</link>
+    <link>https://pandam-magaizine.heroku.com/tags/online-art-galleries/</link>
     <description>Recent content in online art galleries on PanDam Amsterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://estherkim99.github.io/pandam/tags/online-art-galleries/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pandam-magaizine.heroku.com/tags/online-art-galleries/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lockdown creatives: Amsterdam’s Art in Times of Crisis</title>
-      <link>https://estherkim99.github.io/pandam/posts/2020-05-19-lockdown/</link>
+      <link>https://pandam-magaizine.heroku.com/posts/2020-05-19-lockdown/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/posts/2020-05-19-lockdown/</guid>
+      <guid>https://pandam-magaizine.heroku.com/posts/2020-05-19-lockdown/</guid>
       <description>In the past few months we have seen stuff we have never before and those drastic changes that Covid crisis brought with it has been difficult for many, such as Amsterdam’s artists who were forced to find new ways to create their art and gain inspiration.
  We can think back to the age of the bubonic plague, how it changed the lives of millions of people and it turned outbreaks into a recurring part of life.</description>
     </item>

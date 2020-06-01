@@ -21,13 +21,14 @@ h1, h2, h3 {
 
 
 .navbar-container {
-    position: absolute;
+    position: sticky;
     top: 0;
     left: 0;
     width: 1440px;
     height: 70px;
     background-image: linear-gradient(130deg, #FFFFFF 0 40%,
-            #FCF0F3 100%)
+            #FCF0F3 100%);
+    z-index: 100;
 }
 
 .navbar {
@@ -65,11 +66,11 @@ h1, h2, h3 {
 .menu-item {
     display: inline-block;
     top: 10px;
-    height: 60px;
+    height: 70px;
     font-size: 20px;
     font-family: 'IBM Plex Sans', sans-serif;
-    width: 100px;
-    padding:20px 20px;
+    width: fit-content;
+    padding:20px 30px;
 
 }
 
@@ -115,11 +116,11 @@ h1, h2, h3 {
 .main {
     position: relative;
     display: block;
-    top: 70px;
+    top: 0px;
     width: 100%;
     min-height: 650px;
     overflow: visible;
-    margin-bottom: 70px;
+    /* margin-bottom: 70px; */
 
 }
 
@@ -177,13 +178,13 @@ h1, h2, h3 {
 
   /* Caption text */
   .text {
-    color: 261D32;
-    background-color: pink;
-
-    font-size: large;
+    color: #261D32;
+    background-color: rgb(255, 192, 203, 0.8);
+    /* font-weight: bold; */
+    font-size: x-large;
     padding: 8px 12px;
     position: absolute;
-    bottom: 8px;
+    bottom: 0px;
     width: 100%;
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
@@ -421,31 +422,71 @@ h1, h2, h3 {
 
   }
 
-
   .news-update {
     display: block;
+    text-align: left;
+    height: auto;
   }
 
   .news-update h2 {
 
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: large;
+
 
   }
   .news-update h1 {
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: xx-large;
+    font-size: x-large;
     font-weight: 900;
 
   }
 
   .news-container {
     vertical-align: top;
-    width: 40%;
+    width: 100%;
     display: inline-block;
-    margin: 4%;
-
   }
+
+  .row-container {
+    list-style-type: none;
+    text-align: center;
+  }
+
+  .row {
+    position: relative;
+    width: 355px;
+    display: inline-block;
+    background-color: pink;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .row img {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .row h2 {
+    position: absolute;
+    font-size: medium;
+    padding: 10px 10px;
+    margin: 0;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    height: 50%;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(255, 194, 204, 0.8);
+    overflow: scroll;
+    /* height: 40%; */
+  }
+
+  /* padding: 0 30%; */
 
   .archive-container {
     display: block;
@@ -462,22 +503,73 @@ h1, h2, h3 {
   .archived-articles-container {
     width: 100vw;
 
+
   }
   .archive-container ul {
     list-style-type: none;
-    margin: 0 30vw;
     padding-bottom: 30px;
-
+    text-align: left;
   }
 
   .archive-container ul li {
     padding-bottom: 10px;
+    text-align: center;
   }
 
   .doc {
     font-family: 'Source Sans Pro', sans-serif;
+    display: inline-block;
+    padding: 50px 20px;
   }
+
+  .article-card {
+    height: auto;
+    width: 350px;
+  }
+
+  .article-card-description {
+    width: 310px;
+    padding: 5px 0px;
+  }
+
+  .article-card-container {
+    position: relative;
+    vertical-align: middle;
+  }
+
+
 
   .doc h2 {
     font-size: medium;
+    vertical-align: middle;
+    position: absolute;
+    top: 0%;
+    font-weight: bold;
+    background-color: #393045C3;
+    padding: 20px 20px;
+    margin-top: 0;
+    height: 250px;
+    width: 100%;
+    overflow: hidden;
+    text-align: left;
+    text-shadow: 0.5px 0.75px #685F74;
+
+
+  }
+
+  .doc h2 a {
+    color: #f2f2f2;
+    padding: 5px 0px;
+
+  }
+
+  .doc p {
+    position: relative;
+    height: fit-content;
+
+  }
+
+  .article-card-img {
+    height: 250px;
+    object-fit: cover;
   }

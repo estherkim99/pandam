@@ -6,9 +6,17 @@
 <ul>
   {{ with .Site.GetPage "/categories/english" }}
   {{ range .Data.Pages.ByDate.Reverse }}
-    <li class="doc">
-    <h2 ><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Date.Format "Monday, Jan 2, 2006"  }}, by {{ .Params.author }}</p>
+    <li class="doc article-card">
+      <div class="article-card-container">
+      <img class="article-card-img" src="{{ .Site.BaseURL }}{{ .Params.mainImage}}" style="width:100%">
+      <h2 class="article-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <div class="article-card-description">
+        <p>{{ .Date.Format "Monday, Jan 2, 2006"  }} <br> by {{ .Params.author }}</p>
+      </div>
+    </div>
+
+
+
     </li>
   {{ end }}
 

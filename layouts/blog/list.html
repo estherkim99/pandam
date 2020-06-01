@@ -6,10 +6,15 @@
 <ul>
   {{ with .Site.GetPage "/blog" }}
   {{ range .Data.Pages.ByDate.Reverse }}
-    <li class="doc">
+    <li class="doc article-card">
+      <img src="{{ .Site.BaseURL }}{{ .Params.mainImage}}" style="width:100%">
+      <div class="card-description">
+
     <h2 ><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     <p>{{ .Date.Format "Monday, Jan 2, 2006"  }}, by {{ .Params.author }}</p>
+  </div>
     </li>
+
   {{ end }}
 
   {{ end }}
