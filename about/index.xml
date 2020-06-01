@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PanDam Amsterdam</title>
-    <link>https://estherkim99.github.io/pandam/about/</link>
+    <link>https://pandam-magaizine.heroku.com/about/</link>
     <description>Recent content on PanDam Amsterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://estherkim99.github.io/pandam/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pandam-magaizine.heroku.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fanny Tockner</title>
-      <link>https://estherkim99.github.io/pandam/about/fanny-tockner/</link>
+      <link>https://pandam-magaizine.heroku.com/about/fanny-tockner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/about/fanny-tockner/</guid>
+      <guid>https://pandam-magaizine.heroku.com/about/fanny-tockner/</guid>
       <description>My name is Fanny Tockner and I&amp;rsquo;m a PPE student at the VU from Berlin, Germany. I&amp;rsquo;m excited to be part of the Pan-Dam team, because it is a grassroot magazine, where all decisions and contents are made from the bottom up and as a collective effort. It is a platform to creatively and more deeply engage with the city and share stories that ought to be heard - beyond tulips and canals.</description>
     </item>
     
     <item>
       <title>Pan-Dam</title>
-      <link>https://estherkim99.github.io/pandam/about/pandam/</link>
+      <link>https://pandam-magaizine.heroku.com/about/pandam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/about/pandam/</guid>
+      <guid>https://pandam-magaizine.heroku.com/about/pandam/</guid>
       <description>Pan-Dam is a multi-media online newspaper which aims at empowering the Youth of Amsterdam to participate in an innovative, sustainable development of the city, by cultivating a greater understanding of Amsterdam’s urban dynamics. We are here to talk about Amsterdam: its strengths, weaknesses, uniquenesses, contours, people. We want Amsterdam to thrive, become the best it can be. To allow for its blooming, Pan-Dam does two things: it provides an analysis of Amsterdam’s urban dynamics and empowers its readers by making them protagonists, through the use of narrative journalism.</description>
     </item>
     
     <item>
       <title>Scintilla Benevolo</title>
-      <link>https://estherkim99.github.io/pandam/about/scintilla-benevolo/</link>
+      <link>https://pandam-magaizine.heroku.com/about/scintilla-benevolo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/about/scintilla-benevolo/</guid>
+      <guid>https://pandam-magaizine.heroku.com/about/scintilla-benevolo/</guid>
       <description>I&amp;rsquo;m Scintilla Benevolo, from Italy, and I study PPE at the VU. In September of 2019 I moved to New York for a five week internship, where I decided - once back in Amsterdam - to open a publication focusing on urban development. My stay in New York was a beautiful experience, I found its urban character to be fascinating, yet radically different from that of Amsterdam. With Pan-Dam we want to explore Amsterdam’s urban dynamics, expose its strengths and weaknesses, for the purpose of inspiring its readers to engage in fixing what is broken and building what is missing.</description>
     </item>
     
     <item>
       <title>Tiana Japp</title>
-      <link>https://estherkim99.github.io/pandam/about/tiana-japp/</link>
+      <link>https://pandam-magaizine.heroku.com/about/tiana-japp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://estherkim99.github.io/pandam/about/tiana-japp/</guid>
+      <guid>https://pandam-magaizine.heroku.com/about/tiana-japp/</guid>
       <description>Hi, my name is Tiana Japp and I moved to the Netherlands three years ago from Canada and the US. Currently, I am doing my bachelors at the Vrije Universiteit in Literature and Society. Through Pan-Dam, I hope to help bring attention to important topics within our city that need to be told. As an Indigenous woman living in Amsterdam, it can be difficult at times due to the lack of knowledge and representation found in the general consciousness.</description>
     </item>
     
