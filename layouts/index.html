@@ -8,7 +8,7 @@
   <!-- Full-width images with number and caption text -->
   <div class="slideshow fade">
     <img src="{{ .Site.BaseURL }}{{ .Params.mainImage}}" style="width:100%">
-    <!-- <div class="text"><a href="{{ .Permalink }}">{{ .Title }}</a></div> -->
+    <div class="text"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
   </div>
   {{ end }}
   {{ end }}
@@ -18,9 +18,8 @@
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 
-<div class="news-update">
+<!-- <div class="news-update">
   <div class="news-container">
-    <!-- <h1 class="latest ">Latest News</h1> -->
     <div class="row-container">
       {{ with .Site.GetPage "/categories/english" }}
       {{ range first 4 .Data.Pages.ByDate.Reverse }}
@@ -32,5 +31,5 @@
       {{ end }}
     </div>
   </div>
-</div>
+</div> -->
 {{ partial "footer.html" . }}

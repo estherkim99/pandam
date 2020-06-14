@@ -1,13 +1,13 @@
-+++
-author = "PanDam"
-date = "2020-02-15"
-title = "Free contraception lawsuit: the pill is a women’s right, that’s why we sue Dutch State"
-linktitle = "Free contraception lawsuit: the pill is a women’s right, that’s why we sue Dutch State"
-categories = ["English"]
-tags = [
+---
+author : "PanDam"
+date : "2020-02-15"
+title : "Free contraception lawsuit: the pill is a women’s right, that’s why we sue the Dutch government"
+linkTitle : "Free contraception lawsuit: the pill is a women’s right, that’s why we sue the Dutch government"
+language : "English"
+tags : [
 ]
-mainImage = "/img/posts/2020/2020-02-15-free-contraception.jpg"
-+++
+mainImage : "/static/media/2020-02-15-free-contraception.jpg"
+---
 Pic credit: Robin Butter
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 1972 -following an intense campaign from the Dutch feminist group Dolle Mina- the Netherlands declared contraception free for all. Yesterday, on Valentine, “the day of love”, Dutch women are experiencing a déjà vu: feminist legal firm Bureau Clara Wichmann and NGO De Goede Zaak handed over a subpoena **demanding free contraception for all to the high council in Amsterdam.**

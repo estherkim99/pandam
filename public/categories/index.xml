@@ -20,14 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Italian</title>
-      <link>https://pandam-magazine.herokuapp.com/categories/italian/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pandam-magazine.herokuapp.com/categories/italian/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

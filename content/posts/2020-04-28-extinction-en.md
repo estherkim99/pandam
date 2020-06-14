@@ -1,21 +1,19 @@
-+++
-author = "PanDam"
-date = "2020-04-28"
-title = "Extinction Rebellion to Pandam: Covid is not a “blessing” for the environment. The future of the planet is still in our hands"
-linktitle = "Extinction Rebellion to Pandam: Covid is not a “blessing” for the environment. The future of the planet is still in our hands"
-categories = ["English"]
-tags = ["air pollution", "climate action",
+---
+author : "PanDam"
+date : "2020-04-28"
+title : "Extinction Rebellion to Pandam: Covid is not a “blessing” for the environment. The future of the planet is still in our hands"
+linkTitle : "Extinction Rebellion to Pandam"
+language : "English"
+tags : ["air pollution", "climate action",
 "climate crisis", "climate justice", "covid-19", "debt strike", "digital rebellions", "extinction rebellion", "green switch", "inequalitiess"]
-mainImage = "/img/posts/2020/2020-04-28-extinction.jpg"
-+++
+mainImage : "/static/media/2020-04-28-extinction.jpg"
+---
 
-_Photo credits: XR, Sam ten Thij en Teresa, Extinction Rebellion NL_
+_Photo credits: Sam ten Thij en Teresa, Extinction Rebellion NL_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As the world slowly takes its first steps out of lockdown one aspect is becoming increasingly clear: we need to re-think our social interactions, the way we will manage our environment in the future, and above all the way we define human values. The current COVID-19 crisis might offer a unique perspective to learn from. **The current debate seems to focus around how we can regain the status quo and return to our old lifestyle – “once all of this will be over“.** However, we could instead be using this crisis to fundamentally rewrite the way we live,  because global warming is and will be an even more challenging task than the Covid pandemic.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Civil society plays a pivotal role in shaping the path after coronavirus. PanDam spoke with two members of Extinction Rebellion Amsterdam: Camille Miellca and Valentin Jully.
-
-<br>
 
 ## COVID-19 and global warming: a much needed ‘break’ for our planet or a death sentence?
 
@@ -25,15 +23,11 @@ _Photo credits: XR, Sam ten Thij en Teresa, Extinction Rebellion NL_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Overall I think, like everything, whether this crisis ends up being good for the environment or not will depend on our reaction to it. As of now it’s an important break for the planet, but will it last? The outcome will depend on what we choose to do, and when I say ‘we’ I am referring to us, the civil society. I hope we will be able to re-organize ourselves so as to consume less and use energy more reasonably”.
 
-<br>
-
 ## The COVID crisis proves that, when governments consider something a priority, they can take drastic and radical measures efficiently: why hasn’t this happened before with the climate?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;According to Valentin, the question isn’t really about whether it’s possible for governments to take massive action, but rather: would it be accepted by the people? To halt the spread of the virus, countries have adopted intrusive and strict measures that citizens have been willing to accept because of the fear and urgency: “The first demand of XR is to tell the truth: governments should tell the raw and scary truth about climate change the same way they are telling the truth about COVID-19. Then, perhaps, people will be afraid enough to want such massive government actions to be taken”.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camille expressed a similar thought: “I think it proves that if citizens are told the truth about the risks of a situation and the behaviour they need to adopt -and the sacrifices they might need to make- most of them understand, follow the rules and even participate with solidarity, creativity and courage (as that displayed by the health workers). I think it is a great lesson for everyone to remember: we can build communities, we can trust each other, we can find solutions together”.
-
-<br>
 
 ## On climate justice
 
@@ -47,8 +41,6 @@ _Photo credits: XR, Sam ten Thij en Teresa, Extinction Rebellion NL_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“We can also see injustice on a smaller scale in our own countries: if you are rich you can isolate yourself in your house in the mountains with a garden, but if you live in the suburbs you might be sharing your home with five people, and quarantine becomes much more difficult. Also, the cheaper parts of the city are those next to trafficked roads and airports, where air pollution levels are higher and contracting the virus is easier because those areas are also the most densely populated,” explains Valentin.
 
-<br>
-
 ## XR online and digital rebellions
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The theory of change of XR is that of mass mobilizations and civil disobedience which, in times of isolation, is far from feasible. But the XR movement is developing many creative ideas to keep building pressure and expressing their voice and demands. For example, [on Monday 13th XR NL left a letter](https://extinctionrebellion.nl/en/we-kunnen-het-niet-alleen/) and chalked message at the doorstep of Dutch political parties, asking to keep the climate crisis high-up on the political agenda while involving citizens in decision-making through Citizens’ Consultations: “We think it is very important to listen to the science and ask you to do the same. Not only when it comes to the COVID-19 crisis, but also when it comes to the current climate and ecological crisis. We cannot go back to ‘normal’, ‘normal’ was precisely the problem. With love, anger and respect, we wish you a Happy Easter”.
@@ -59,8 +51,6 @@ _Photo credits: XR, Sam ten Thij en Teresa, Extinction Rebellion NL_
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“XR UK is also organizing a debt strike -a form of digital rebellion- inspired by Hong Kong’s online civil disobedience,” explains Valentin.  “A debt strike is an effective way to block the activities of banks. In this way, pressure is built up on banks, which is an opportunity to make demands heard”.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[On XR Online](https://docs.google.com/document/u/1/d/e/2PACX-1vR-OuhjS_Jqj2JwJrQ8qZjBdozDhgTCA7MwgSX_5OS4lCnkCjdhbZFRWE-c77q-rPHKKljW5VEFD-V5/pub?fbclid=IwAR2V8oosVliCAmIMZqgT7RLyDtO30cPP-QyQLbRv0Xq4K47Fw9Sp4KBWyZs) you can also find a table summarising all Zoom events coming up in the next weeks. On the 2nd and 10th of May Valentin will be hosting a ‘Growing XR Workshop’ on how to keep as many rebels interested and engaged with XR as possible, and how to ensure that XR has a place and events for all types of rebels.
-
-<br>
 
 ## What is the meaning of all of this?
 

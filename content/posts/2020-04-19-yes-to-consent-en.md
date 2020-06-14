@@ -1,14 +1,14 @@
-+++
-author = "PanDam"
-date = "2020-04-19"
-title = "Yes to consent, no to sexual violence: this is OBOV mission"
-linktitle = "Yes to consent, no to sexual violence: this is OBOV mission"
-categories = ["English"]
-tags = []
-mainImage = "/img/posts/2020/2020-04-19-yes-to-consent.jpg"
-+++
+---
+author : "PanDam"
+date : "2020-04-19"
+title : "Yes to consent, no to sexual violence: this is OBOV mission"
+linkTitle : "Yes to consent, no to sexual violence: this is OBOV mission"
+language : "English"
+tags : []
+mainImage : "/static/media/2020-04-19-yes-to-consent.jpg"
+---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the beginning of the coronavirus crisis, a lockdown seemed extreme. Yet, over 100 countries implemented either a full or partial lockdown by the end of March; with the quarantine lasting weeks, people all over the world are forced to cope with the disruptive shift in their lifestyle: Working from home, the lack of social interaction, and the distressing uncertainty about the future. **Besides these consequences, cases of domestic violence have surged.** This makes organizations like OBOV extremely important, but how are they adapting to this crisis?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the beginning of the coronavirus crisis, a lockdown seemed extreme. Yet, over 100 countries implemented either a full or partial lockdown by the end of March. With the quarantine lasting weeks, people all over the world are forced to cope with a disruptive shift in their lifestyle. Working from home, the lack of social interaction, and the distressing uncertainty about the future. Besides these consequences, cases of domestic violence have surged. This makes organizations like OBOV extremely important, but how are they adapting to this crisis?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[“Our Bodies Our Voice” (OBOV)](https://ourbodies-ourvoice.com) raises awareness about sexual violence and transforming the consent culture within universities. Now that the coronavirus pandemic has reached the Netherlands, universities all over the entire country are closed. Yet, the hardworking members of this OBOV are as active as ever, shifting their activities online. **Before the coronavirus, the organization provided workshops and trainings to students, staff and student associations.** It also offered policy advise to the universities to create a safer environment for students and the staff.
 

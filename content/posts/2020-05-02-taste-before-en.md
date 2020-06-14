@@ -1,12 +1,12 @@
-+++
-author = "PanDam"
-date = "2020-05-02"
-title = "Taste Before You Waste, soul food in Amsterdam Oost"
-linktitle = "Taste Before You Waste, soul food in Amsterdam Oost"
-categories = ["English"]
-tags = ["food chain", "creativity", "food waste", "food inequalities", "local produce", "starvation", "Taste Before You Waste", "veganism", "volunteering", "Wasteless Dinners"]
-mainImage = "/img/posts/2020/2020-05-02-taste-before.jpg"
-+++
+---
+author : "PanDam"
+date : "2020-05-02"
+title : "Taste Before You Waste, soul food in Amsterdam Oost"
+linkTitle : "Taste Before You Waste, soul food in Amsterdam Oost"
+language : "English"
+tags : ["food chain", "creativity", "food waste", "food inequalities", "local produce", "starvation", "Taste Before You Waste", "veganism", "volunteering", "Wasteless Dinners"]
+mainImage : "/static/media/2020-05-02-taste-before.jpg"
+---
 
 _Photo Credits: Taste Before You Waste_
 
@@ -17,7 +17,6 @@ Isabel is the general coordinator of Taste Before You Waste (TBYW): “We are an
 The wastefulness of our relationship with food “becomes more toxic when we consider the resources needed to create that product – the land, water, energy, people displacement and so on”. Indeed, much of our planet is taken up by spaces needed for cultivation and agriculture, and not ‘direct’ civilization. “When we waste food, when supermarkets and agricultural structures waste food, we also waste the resources used to create that food,” explains Isabel.
 
 PanDam spoke to Gea Cignozzi, Hanneke van Tol and Zeb Marvin about their volunteering experiences at TBYW and how it has changed the way they think about food.
-
 
 ## Wasteless Dinners
 
@@ -33,13 +32,11 @@ Hanneke, a chef at TBWY, believes that Wasteless Dinners are an important local 
 
 Gea, who also volunteers as a server, believes that Wasteless dinners are a perfect opportunity to reflect: “This event is open to everyone -students, families, individuals in financial troubles- because we we want people from all walk of life to reflect on the flaws of this food system, on the extent of waste that it produces, waste that is still completely edible!”. Wasteless dinners also have an important educational value, as people learn to judge food through they’re senses rather than its expiration date: “People tend to throw away bruised apples, even if their still perfectly good! To judge whether something can still be eaten or not we should use our smell, it’s the most important sense for understanding whether food has indeed expired”.
 
-
 ## Even in times of Covid, the fight against food waste continues
 
 Due to Covid related regulations, Wasteless dinners cannot currently take place. But this hasn’t stopped some TBWY volunteers from continuing the fight against food waste. “To maintain our familiarity and relationship with the shops in Javastreet, we continue to do daily pick-ups. We then drop-off the food at various locations in need, like Huis van de Wijk De Meeuw, a community center in Noord to which I deliver food every Saturday,” explains Zeb.
 
 Gea has also started collecting food in her neighbourhood in Amsterdam West, which she usually distributes to her roommates and neighbours: “Once I saw a local grocery shop in my area with a crate full of bruised apples. I spoke to the owner and we agreed that I could buy her food waste for a fixed price”. Why going to the supermarket when you can support your local food shops, save money and help the fight against waste?
-
 
 ## What actions can we, as individuals, take?
 
