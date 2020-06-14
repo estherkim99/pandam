@@ -24,7 +24,8 @@ h1, h2, h3 {
     position: sticky;
     top: 0;
     left: 0;
-    width: 1440px;
+    /* width: 1440px; */
+    width: 100vw;
     height: 70px;
     background-image: linear-gradient(130deg, #FFFFFF 0 40%,
             #FCF0F3 100%);
@@ -117,7 +118,7 @@ h1, h2, h3 {
     position: relative;
     display: block;
     top: 0px;
-    width: 100%;
+    width: 100vw;
     min-height: 650px;
     overflow: visible;
     /* margin-bottom: 70px; */
@@ -241,7 +242,7 @@ h1, h2, h3 {
       background-color: #E1D5DE;
       position: relative;
       display: block;
-      width: 100%;
+      width: 100vw;
       bottom: 0;
       font: medium;
       text-align: center;
@@ -300,7 +301,7 @@ h1, h2, h3 {
   }
 
   .article-content p {
-    padding-bottom: 0.5em;
+    padding-bottom: 1em;
   }
 
   .article-content a {
