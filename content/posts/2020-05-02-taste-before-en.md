@@ -5,7 +5,7 @@ title : "Taste Before You Waste, soul food in Amsterdam Oost"
 linkTitle : "Taste Before You Waste, soul food in Amsterdam Oost"
 language : "English"
 tags : ["food chain", "creativity", "food waste", "food inequalities", "local produce", "starvation", "Taste Before You Waste", "veganism", "volunteering", "Wasteless Dinners"]
-mainImage : "/static/media/2020-05-02-taste-before.jpg"
+mainImage : "/img/posts/2020/2020-05-02-taste-before.jpg"
 ---
 
 _Photo Credits: Taste Before You Waste_

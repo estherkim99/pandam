@@ -6,7 +6,7 @@ linkTitle : "Social and diverse: Oscam in ZuidOost is the culturale beating hear
 language : "English"
 tags : [
 ]
-mainImage : "/static/media/2020-02-29-social-and-diverse.jpg"
+mainImage : "/img/posts/2020/2020-02-29-social-and-diverse.jpg"
 ---
 
 

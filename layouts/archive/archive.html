@@ -4,7 +4,7 @@
   <h1 class="archive-title">Articles</h1>
   <div class="archived-articles-container">
 <ul>
-  {{ with .Site.GetPage "/categories/english" }}
+  {{ with .Site.GetPage "/posts" }}
   {{ range .Data.Pages.ByDate.Reverse }}
     <li class="doc article-card">
       <div class="article-card-container">

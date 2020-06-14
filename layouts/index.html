@@ -3,7 +3,7 @@
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
-  {{ with .Site.GetPage "/categories/english" }}
+  {{ with .Site.GetPage "/posts" }}
   {{ range first 4 .Data.Pages.ByDate.Reverse }}
   <!-- Full-width images with number and caption text -->
   <div class="slideshow fade">

@@ -12,7 +12,7 @@ tags : [
     "Sex worker",
     "Sunny"
 ]
-mainImage : "/static/media/2020-02-07-i-am-sunny.jpg"
+mainImage : "/img/posts/2020/2020-02-07-i-am-sunny.jpg"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sunny is a sex worker in Amsterdam. You will sometimes find her at the Prostitution Information Center, sitting on Enge Kerksteeg 3, ready to answer all your questions over a steaming mint tea waiting to be served. The Center is very beautifully decorated, pictures and posters adorne its walls, and towards the back is a spacious wooden table. People often take pictures from outside, but when someone tried doing so during our interview Sunny rushed to the **window and waved her arms in disapproval, [“we don’t want people to just take pictures, we want them to come in for a chat”.](https://www.31mag.nl/dutch-cities-sex-worker-advocates-raise-concerns-over-proposed-law/)**

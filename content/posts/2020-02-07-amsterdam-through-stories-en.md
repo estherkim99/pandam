@@ -7,7 +7,7 @@ language : "English"
 tags : [
     "Amsterdam"
 ]
-mainImage : "/static/media/2020-02-07-amsterdam-through-stories.jpeg"
+mainImage : "/img/posts/2020/2020-02-07-amsterdam-through-stories.jpeg"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pan-Dam was born in 2019, on the 22nd of October, in the cafè of the Kriterion Filmtheatre. A few weeks before I had decided to open my own publication, to break my inertia and finally get started on a project I had been fantasizing about for years. I spent sleepless nights posting and posting in a multitude of writing-related Facebook groups, texting and emailing hundreds of people, hoping to find someone willing to embark on this project with me.

@@ -6,7 +6,7 @@ linkTitle : "Free contraception lawsuit: the pill is a women’s right, that’s
 language : "English"
 tags : [
 ]
-mainImage : "/static/media/2020-02-15-free-contraception.jpg"
+mainImage : "/img/posts/2020/2020-02-15-free-contraception.jpg"
 ---
 Pic credit: Robin Butter
 

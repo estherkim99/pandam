@@ -15,7 +15,7 @@ tags : [
     "Tessel ten Zweege",
     "zine"
 ]
-mainImage : "/static/media/2020-02-22-printed-and-rebel.jpg"
+mainImage : "/img/posts/2020/2020-02-22-printed-and-rebel.jpg"
 ---
 Photo via: [Wikimedia](https://en.wikipedia.org/wiki/Zine#/media/File:SF_punk_zines_at_Prelinger_Library.jpg), Author [Lindsay Eyink](https://www.flickr.com/photos/leyink/6837528156), Licence [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 

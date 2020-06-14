@@ -13,7 +13,7 @@ tags : ["racism",
 "registration",
 "abuse"
 ]
-mainImage : "/static/media/2020-03-21-racism-ripoff.jpg"
+mainImage : "/img/posts/2020/2020-03-21-racism-ripoff.jpg"
 ---
 
 

@@ -6,7 +6,7 @@ linkTitle : "Extinction Rebellion to Pandam"
 language : "English"
 tags : ["air pollution", "climate action",
 "climate crisis", "climate justice", "covid-19", "debt strike", "digital rebellions", "extinction rebellion", "green switch", "inequalitiess"]
-mainImage : "/static/media/2020-04-28-extinction.jpg"
+mainImage : "/img/posts/2020/2020-04-28-extinction.jpg"
 ---
 
 _Photo credits: Sam ten Thij en Teresa, Extinction Rebellion NL_

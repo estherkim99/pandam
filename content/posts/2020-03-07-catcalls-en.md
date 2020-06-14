@@ -6,7 +6,7 @@ linkTitle : "Catcalls of Amsterdam, marking sexism on the ground"
 language : "English"
 tags : [
 ]
-mainImage : "/static/media/2020-03-07-catcalls.jpg"
+mainImage : "/img/posts/2020/2020-03-07-catcalls.jpg"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

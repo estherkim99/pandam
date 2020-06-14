@@ -5,7 +5,7 @@ title : "Yes to consent, no to sexual violence: this is OBOV mission"
 linkTitle : "Yes to consent, no to sexual violence: this is OBOV mission"
 language : "English"
 tags : []
-mainImage : "/static/media/2020-04-19-yes-to-consent.jpg"
+mainImage : "/img/posts/2020/2020-04-19-yes-to-consent.jpg"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the beginning of the coronavirus crisis, a lockdown seemed extreme. Yet, over 100 countries implemented either a full or partial lockdown by the end of March. With the quarantine lasting weeks, people all over the world are forced to cope with a disruptive shift in their lifestyle. Working from home, the lack of social interaction, and the distressing uncertainty about the future. Besides these consequences, cases of domestic violence have surged. This makes organizations like OBOV extremely important, but how are they adapting to this crisis?

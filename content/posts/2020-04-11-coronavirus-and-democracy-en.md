@@ -6,7 +6,7 @@ linkTitle : "Coronavirus and democracy, what do Amsterdam students think of the 
 language : "English"
 tags : [
 ]
-mainImage : "/static/media/2020-04-11-coronavirus-and-democracy.jpg"
+mainImage : "/img/posts/2020/2020-04-11-coronavirus-and-democracy.jpg"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wrapping your head around the biggest world crisis since WWII is not an easy task: there is so much uncertainty, there are so many questions, so much instability. Spring is finally creeping into the canals and the parks of Amsterdam but for this year we can forget the drinks and barbecues with friends, the ease and joy of the first days of warmth. Something as small and invisible as a virus has changed our life: **what should we think about it?** PanDam interviewed some university students who shared with us their stories and opinions. To wrap our heads around these wierd times we must think and we must reflect.
