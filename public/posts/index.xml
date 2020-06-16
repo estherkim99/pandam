@@ -6,10 +6,19 @@
     <description>Recent content in Posts on PanDam Amsterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pandam-magazine.herokuapp.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lutkemeerpolder: the last organic farm of Amsterdam fights to survive</title>
+      <link>https://pandam-magazine.herokuapp.com/posts/2020-06-15-lutkemeerpolder/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pandam-magazine.herokuapp.com/posts/2020-06-15-lutkemeerpolder/</guid>
+      <description>The area of the Lutkemeer is not easy to find. You need to hop on tram 1, get off at the last stop, walk along the road, past industrial areas, until you reach a small cycle lane. Then you see them, the large fields referred to as the Lutkemeerpolder. These fields have been the battleground of a long dispute between grass-root organizations of farmers and citizens and the municipality of Amsterdam, which hopes to use the land to extent the adjacent Schipol airport.</description>
+    </item>
     
     <item>
       <title>Lockdown creatives: Amsterdam’s Art in Times of Crisis</title>

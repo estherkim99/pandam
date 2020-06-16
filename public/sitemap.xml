@@ -3,14 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pandam-magazine.herokuapp.com/podcast/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://pandam-magazine.herokuapp.com/posts/2020-06-15-lutkemeerpolder/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pandam-magazine.herokuapp.com/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pandam-magazine.herokuapp.com/posts/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pandam-magazine.herokuapp.com/podcast/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -45,11 +55,6 @@
   
   <url>
     <loc>https://pandam-magazine.herokuapp.com/tags/online-art-galleries/</loc>
-    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pandam-magazine.herokuapp.com/posts/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
